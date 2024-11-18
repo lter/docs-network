@@ -49,10 +49,9 @@ vignettes/*.pdf
 ~$*.xlsx
 ~$*.docx
 
-# Files to ignore
-
-
 # Folders to ignore
+/.quarto/
+docs/
 
-
-
+# Files to ignore
+## TBD
