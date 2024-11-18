@@ -1,0 +1,36 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+
+execute: 
+  freeze: auto
+
+website:
+  title: "LTER Network Documentation"
+  repo-url: https://github.com/lter/docs-network
+  repo-actions: [issue]
+  favicon: images/logo_lter.png
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+    right: 
+      - icon: github
+        href: https://github.com/lter/docs-network
+  page-footer: 
+    center: "Copyright 2024, LTER Network"
+    background: secondary
+
+format:
+  html:
+    theme:
+       light: _extensions/lter/lter_scss-theme/theme_lter-edu-light.scss
+       dark: _extensions/lter/lter_scss-theme/theme_lter-edu-dark.scss
+    mainfont: Open Sans
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
+
+editor: source
