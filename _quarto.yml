@@ -13,9 +13,6 @@ website:
   favicon: images/logo_lter.png
   navbar:
     background: primary
-    left:
-      - text: "Home"
-        href: index.qmd
     right: 
       - icon: github
         href: https://github.com/lter/docs-network
