@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lter.github.io/docs-network/index.html</loc>
-    <lastmod>2024-11-19T15:58:56.224Z</lastmod>
+    <lastmod>2024-11-19T16:28:59.966Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/home.html</loc>
-    <lastmod>2024-11-19T15:58:56.224Z</lastmod>
+    <lastmod>2024-11-19T16:28:59.962Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/new-to-lter.html</loc>
+    <lastmod>2024-11-19T16:28:59.962Z</lastmod>
   </url>
 </urlset>

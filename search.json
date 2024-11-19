@@ -4,20 +4,27 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Under construction! Check back later"
-  },
-  {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
-    "title": "Home",
-    "section": "",
-    "text": "Under construction! Check back later"
+    "text": "This website is the living home for shareable documentation and policies for the LTER Network. For more information about LTER, see lternet.edu. There are several separate areas of documentation described below.\n\nInformation Managers\nEvery LTER site has an “information manager”. These staff members are responsible for a variety of technical tasks at their respective sites, primarily centered around the management and archiving of the huge volumes of data produced by the long-term research performed at each site. Documents relevant to IMs can be found under the eponymous dropdown menu."
   },
   {
     "objectID": "im/home.html",
     "href": "im/home.html",
     "title": "Information Manager Home",
     "section": "",
-    "text": "This part of the website is a place for new and experienced LTER information managers to refer to the latest LTER policy and practice updates.\nThe IM manual is intended for policies and practices that are LTER-specific, not as a replacement for broader training and best practices in information management. It is accessible by any LTER information manager, but will probably be most actively updated by the LTER Network Office and the LTER IMExec Team. All LTER Information Managers will want to “watch” the repo for updates or check back regularly. To view the source code for any of these pages, see here.\nFor procedures on making edits to the manual, please see CONTRIBUTING.md."
+    "text": "This part of the website is a place for new and experienced LTER information managers to refer to the latest LTER policy and practice updates.\nThis facet of the website gathers the current practices and procedures that apply to information management within the LTER Network in one place. It does not aspire to be a single source of information and resources for information management more generally–nor even for the myriad best practices that have been established through IM collaboration in the LTER Network.\nAny LTER information manager may make edits to these pages, but it is likely to be most actively updated by the LTER Network Office and the LTER IM Executive Team. All LTER Information Managers will want to “watch” the repo for updates or check back regularly. To view the source code for any of these pages, see here. For specific procedures on making edits to the manual, please see CONTRIBUTING.md.\n\nWhat Do You Need to Do?\n\nI’m brand new to LTER\nI’m familiar with LTER, but a new Information Manager\nAsk for help with something\nUpdate my site’s personnel\nUpdate my site’s publications\nObtain a unique site identifier\nCreate (or edit) a site website\nWrite Ecological Markup Language (EML)\nEstablish a site GitHub Repository\nSuggest edits to the IM Manual"
+  },
+  {
+    "objectID": "im/new-to-lter.html",
+    "href": "im/new-to-lter.html",
+    "title": "Welcome to the LTER Community!",
+    "section": "",
+    "text": "Although each of the sites and roles are a bit different, overall, the LTER Network is a truly congenial, helpful, and welcoming community. These pages are intended to help you find your way around our various communication channels in your first weeks and months.\nFor resources specific to information management (IM), please see the new to LTER information management page."
+  },
+  {
+    "objectID": "im/new-to-lter.html#get-connected",
+    "href": "im/new-to-lter.html#get-connected",
+    "title": "Welcome to the LTER Community!",
+    "section": "Get Connected:",
+    "text": "Get Connected:\n\nLTER Network Website: Take some time with the LTER Network Website, which has a wealth of information about the structure and history of the Network and sites.\nLTER mailing lists: Each LTER committee has an email discussion list, maintained on Google Groups. For information managers, the posting address is “im@lternet.edu”. Subscribe to the Information Managers email list for updates and discussion of all things related to information management in the LTER Network.\nLTER Community Forum Create an account on the LTER Community Forum at https://lternet.discourse.group/. Login and create account buttons are available at the top right and a forum account can be linked to Google or GitHub accounts for ease in logging in. Membership is open to the entire LTER and LTER-interested community. Use it to ask questions and share resources on topics narrow or broad. Fine-tune your audience with categories and keywords.\nLTER Newsletters: Sign up for the LTER Newsletters, including the monthly LTER Network News, a monthly LTER jobs newsletter, and DataBits, a bi-annual newsletter for all things IM.\nLTER Slack: Sign up for the LTER Slack channel at https://slack.lternet.edu. If you are new to Slack, review the quick start guide.\n\n\nSocial Media\n\nTwitter / X: @USLTER\n\nFollow for the latest research news, chatter, and jobs.\n\nMastodon: @USLTER\nLinkedIn: linkedin.com/company/lter-network\n\nFollow for job postings and to build your professional network\n\nFacebook: facebook.com/uslter\n\nFollow for public interest and educational posts\n\nInstagram: instagram.com/lter_community\n\nFollow for great images and posts from the field and the lab"
   }
 ]
