@@ -2,14 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lter.github.io/docs-network/index.html</loc>
-    <lastmod>2024-11-19T16:28:59.966Z</lastmod>
+    <lastmod>2024-11-19T17:07:18.627Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/site-publications.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/site-identifier.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/new-to-im.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/github-organization-recs.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/eml.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/bibtex.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/biblio-fields.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/edits.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/getting-help.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/home.html</loc>
-    <lastmod>2024-11-19T16:28:59.962Z</lastmod>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/new-to-lter.html</loc>
-    <lastmod>2024-11-19T16:28:59.962Z</lastmod>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/site-personnel.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/im/site-websites.html</loc>
+    <lastmod>2024-11-19T17:07:18.623Z</lastmod>
   </url>
 </urlset>
