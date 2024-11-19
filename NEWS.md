@@ -2,6 +2,8 @@
 
 Updates from the prior version will be listed here as they are made. A version number will be chosen when a GitHub release is made based on the scope of changes from the prior version.
 
+- Moved guidelines for editing the documents in this site out of IM-specific dropdown menu
+
 ## Version 1.0
 
 - Ported IM manual content into this website
