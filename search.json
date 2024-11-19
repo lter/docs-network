@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "NEWS.html",
-    "href": "NEWS.html",
-    "title": "LTER Network Documentation",
-    "section": "",
-    "text": "Updates from the prior version will be listed here as they are made. A version number will be chosen when a GitHub release is made based on the scope of changes from the prior version."
-  },
-  {
-    "objectID": "NEWS.html#dev-version",
-    "href": "NEWS.html#dev-version",
-    "title": "LTER Network Documentation",
-    "section": "",
-    "text": "Updates from the prior version will be listed here as they are made. A version number will be chosen when a GitHub release is made based on the scope of changes from the prior version."
-  },
-  {
-    "objectID": "NEWS.html#version-0.1",
-    "href": "NEWS.html#version-0.1",
-    "title": "LTER Network Documentation",
-    "section": "Version 0.1",
-    "text": "Version 0.1\n\nFunctioning Quarto website skeleton\nGitHub Action for automated website rendering"
-  },
-  {
-    "objectID": "im/home.html",
-    "href": "im/home.html",
-    "title": "Information Manager Home",
-    "section": "",
-    "text": "This part of the website is a place for new and experienced LTER information managers to refer to the latest LTER policy and practice updates.\nThe IM manual is intended for policies and practices that are LTER-specific, not as a replacement for broader training and best practices in information management. It is accessible by any LTER information manager, but will probably be most actively updated by the LTER Network Office and the LTER IMExec Team. All LTER Information Managers will want to “watch” the repo for updates or check back regularly. To view the source code for any of these pages, see here.\nFor procedures on making edits to the manual, please see CONTRIBUTING.md."
-  },
-  {
-    "objectID": "CONTRIBUTING.html",
-    "href": "CONTRIBUTING.html",
-    "title": "Documentation Website Contributing Guidelines",
-    "section": "",
-    "text": "Edits to the website built by this repository can be made either directly through GitHub or via a local clone. Currently all members of the network-office and info-managers teams have the ability to make edits and triage issues in this repository.\n\n\nPlease document all substantive edits in the NEWS.md file in the top level of this repository. High-level summaries of changes there will make the strategic summary of changes easier to track through time and will allow for more informative GitHub release details.\n\n\n\nWhen making minor edits, feel free to make those directly in the “main” branch.\n\n\n\nIf making major edits–either to particular documents or to the structure of the website–please create a branch for those edits and submit a pull request when you are ready to have those changes be reflected in the live website."
-  },
-  {
-    "objectID": "CONTRIBUTING.html#documenting-changes",
-    "href": "CONTRIBUTING.html#documenting-changes",
-    "title": "Documentation Website Contributing Guidelines",
-    "section": "",
-    "text": "Please document all substantive edits in the NEWS.md file in the top level of this repository. High-level summaries of changes there will make the strategic summary of changes easier to track through time and will allow for more informative GitHub release details."
-  },
-  {
-    "objectID": "CONTRIBUTING.html#minor-edits",
-    "href": "CONTRIBUTING.html#minor-edits",
-    "title": "Documentation Website Contributing Guidelines",
-    "section": "",
-    "text": "When making minor edits, feel free to make those directly in the “main” branch."
-  },
-  {
-    "objectID": "CONTRIBUTING.html#major-edits",
-    "href": "CONTRIBUTING.html#major-edits",
-    "title": "Documentation Website Contributing Guidelines",
-    "section": "",
-    "text": "If making major edits–either to particular documents or to the structure of the website–please create a branch for those edits and submit a pull request when you are ready to have those changes be reflected in the live website."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -68,5 +12,12 @@
     "title": "Home",
     "section": "",
     "text": "Under construction! Check back later"
+  },
+  {
+    "objectID": "im/home.html",
+    "href": "im/home.html",
+    "title": "Information Manager Home",
+    "section": "",
+    "text": "This part of the website is a place for new and experienced LTER information managers to refer to the latest LTER policy and practice updates.\nThe IM manual is intended for policies and practices that are LTER-specific, not as a replacement for broader training and best practices in information management. It is accessible by any LTER information manager, but will probably be most actively updated by the LTER Network Office and the LTER IMExec Team. All LTER Information Managers will want to “watch” the repo for updates or check back regularly. To view the source code for any of these pages, see here.\nFor procedures on making edits to the manual, please see CONTRIBUTING.md."
   }
 ]
