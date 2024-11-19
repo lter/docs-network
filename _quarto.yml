@@ -13,6 +13,11 @@ website:
   favicon: images/logo_lter.png
   navbar:
     background: primary
+    left:
+      - text: "IMs"
+        menu: 
+          - text: "IM Home"
+            href: im/home.qmd
     right: 
       - icon: github
         href: https://github.com/lter/docs-network
