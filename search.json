@@ -4,14 +4,21 @@
     "href": "NEWS.html",
     "title": "LTER Network Documentation",
     "section": "",
-    "text": "Functioning website skeleton\nGitHub Action for automated website rendering"
+    "text": "Updates from the prior version will be listed here as they are made. A version number will be chosen when a GitHub release is made based on the scope of changes from the prior version."
+  },
+  {
+    "objectID": "NEWS.html#dev-version",
+    "href": "NEWS.html#dev-version",
+    "title": "LTER Network Documentation",
+    "section": "",
+    "text": "Updates from the prior version will be listed here as they are made. A version number will be chosen when a GitHub release is made based on the scope of changes from the prior version."
   },
   {
     "objectID": "NEWS.html#version-0.1",
     "href": "NEWS.html#version-0.1",
     "title": "LTER Network Documentation",
-    "section": "",
-    "text": "Functioning website skeleton\nGitHub Action for automated website rendering"
+    "section": "Version 0.1",
+    "text": "Version 0.1\n\nFunctioning Quarto website skeleton\nGitHub Action for automated website rendering"
   },
   {
     "objectID": "CONTRIBUTING.html",
