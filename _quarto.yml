@@ -20,6 +20,8 @@ website:
         menu: 
           - text: "IM Home"
             href: im/home.qmd
+          - text: "New to LTER"
+            href: im/new-to-lter.qmd
     right: 
       - icon: github
         href: https://github.com/lter/docs-network
