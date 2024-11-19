@@ -22,6 +22,28 @@ website:
             href: im/home.qmd
           - text: "New to LTER"
             href: im/new-to-lter.qmd
+          - text: "New to IM"
+            href: im/new-to-im.qmd
+          - text: "EML"
+            href: im/eml.qmd
+          - text: "GitHub Organizations"
+            href: im/github-organization-recs.qmd
+          - text: "Site Identifier"
+            href: im/site-identifier.qmd
+          - text: "Site Personnel"
+            href: im/site-personnel.qmd
+          - text: "Site Publications"
+            href: im/site-publications.qmd
+          - text: "Site Websites"
+            href: im/site-websites.qmd
+          - text: "Bibtex"
+            href: im/bibtex.qmd
+          - text: "Biblio Fields"
+            href: im/biblio-fields.qmd
+          - text: "Getting Help"
+            href: im/getting-help.qmd
+          - text: "Editing IM Docs"
+            href: im/edits.qmd
     right: 
       - icon: github
         href: https://github.com/lter/docs-network
