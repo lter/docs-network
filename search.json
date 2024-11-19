@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "NEWS.html",
+    "href": "NEWS.html",
+    "title": "LTER Network Documentation",
+    "section": "",
+    "text": "Functioning website skeleton\nGitHub Action for automated website rendering"
+  },
+  {
+    "objectID": "NEWS.html#version-0.1",
+    "href": "NEWS.html#version-0.1",
+    "title": "LTER Network Documentation",
+    "section": "",
+    "text": "Functioning website skeleton\nGitHub Action for automated website rendering"
+  },
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Documentation Website Contributing Guidelines",
+    "section": "",
+    "text": "Edits to the website built by this repository can be made either directly through GitHub or via a local clone. Currently all members of the network-office and info-managers teams have the ability to make edits and triage issues in this repository.\n\n\nPlease document all substantive edits in the NEWS.md file in the top level of this repository. High-level summaries of changes there will make the strategic summary of changes easier to track through time and will allow for more informative GitHub release details.\n\n\n\nWhen making minor edits, feel free to make those directly in the “main” branch.\n\n\n\nIf making major edits–either to particular documents or to the structure of the website–please create a branch for those edits and submit a pull request when you are ready to have those changes be reflected in the live website."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#documenting-changes",
+    "href": "CONTRIBUTING.html#documenting-changes",
+    "title": "Documentation Website Contributing Guidelines",
+    "section": "",
+    "text": "Please document all substantive edits in the NEWS.md file in the top level of this repository. High-level summaries of changes there will make the strategic summary of changes easier to track through time and will allow for more informative GitHub release details."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#minor-edits",
+    "href": "CONTRIBUTING.html#minor-edits",
+    "title": "Documentation Website Contributing Guidelines",
+    "section": "",
+    "text": "When making minor edits, feel free to make those directly in the “main” branch."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#major-edits",
+    "href": "CONTRIBUTING.html#major-edits",
+    "title": "Documentation Website Contributing Guidelines",
+    "section": "",
+    "text": "If making major edits–either to particular documents or to the structure of the website–please create a branch for those edits and submit a pull request when you are ready to have those changes be reflected in the live website."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
