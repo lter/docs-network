@@ -36,9 +36,9 @@ website:
             href: im/eml.qmd
           - text: "Site GitHub Orgs"
             href: im/github-organization-recs.qmd
-          - text: "Suggest Edits"
-            href: im/edits.qmd
     right: 
+      - text: "Editing This Site"
+        href: general/edits.qmd
       - icon: github
         href: https://github.com/lter/docs-network
   page-footer: 

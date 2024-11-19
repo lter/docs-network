@@ -1,0 +1,14 @@
+---
+title: "Editing This Website"
+format: html
+---
+
+We welcome edits to these documents! See below for the type of edit that fits your needs.
+
+### Make Edits
+
+If you are a member of the Network Office or an Information Manager you should already have edit access. We do ask that any edits you make adhere to the guidelines suggested in [CONTRIBUTING.md](https://github.com/lter/docs-network/blob/main/CONTRIBUTING.md).
+
+### Suggest Edits
+
+If you do not have edit access and/or want to just post a suggestion or comment, the best approach is to create a Github issue on the repository that builds this website. **Click [here](https://github.com/lter/docs-network/issues/new) to start making an issue.** You can use plain text to describe your issue, but if you want to take advantage of more advanced features, check out [GitHub's Quickstart guide](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart).
