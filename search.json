@@ -21,6 +21,13 @@
     "text": "Version 0.1\n\nFunctioning Quarto website skeleton\nGitHub Action for automated website rendering"
   },
   {
+    "objectID": "im/home.html",
+    "href": "im/home.html",
+    "title": "Information Manager Home",
+    "section": "",
+    "text": "This part of the website is a place for new and experienced LTER information managers to refer to the latest LTER policy and practice updates.\nThe IM manual is intended for policies and practices that are LTER-specific, not as a replacement for broader training and best practices in information management. It is accessible by any LTER information manager, but will probably be most actively updated by the LTER Network Office and the LTER IMExec Team. All LTER Information Managers will want to “watch” the repo for updates or check back regularly. To view the source code for any of these pages, see here.\nFor procedures on making edits to the manual, please see CONTRIBUTING.md."
+  },
+  {
     "objectID": "CONTRIBUTING.html",
     "href": "CONTRIBUTING.html",
     "title": "Documentation Website Contributing Guidelines",
