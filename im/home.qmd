@@ -7,17 +7,17 @@ This part of the website is a place for new and experienced LTER information man
 
 This facet of the website gathers the current practices and procedures that apply to information management **within the LTER Network** in one place. It does not aspire to be a single source of information and resources for information management more generally--nor even for the myriad best practices that have been established through IM collaboration in the LTER Network. 
 
-Any LTER information manager may make edits to these pages, but it is likely to be most actively updated by the LTER Network Office and the LTER IM Executive Team. All LTER Information Managers will want to "watch" the repo for updates or check back regularly. To view the source code for any of these pages, see [here](https://github.com/lter/docs-network/tree/main/im). For specific procedures on making edits to the manual, please see [CONTRIBUTING.md](https://github.com/lter/docs-network/blob/main/CONTRIBUTING.md).
+Any LTER information manager may make edits to these pages, but it is likely to be most actively updated by the LTER Network Office and the LTER IM Executive Team. All LTER Information Managers will want to "watch" the repo for updates or check back regularly. To view the source code for any of these pages, see [here](https://github.com/lter/docs-network/tree/main/im). 
 
 ### What Do You Need to Do?
 
-- [I'm brand new to LTER](http://lter.github.io/im-manual/new-to-lter)
-- [I'm familiar with LTER, but a new Information Manager](http://lter.github.io/im-manual/new-to-im)
-- [Ask for help with something](http://lter.github.io/im-manual/getting-help)
-- [Update my site's personnel](http://lter.github.io/im-manual/site-personnel)
-- [Update my site's publications](https://lter.github.io/im-manual/site-publications)
-- [Obtain a unique site identifier](https://lter.github.io/im-manual/site-identifier)
-- [Create (or edit) a site website](https://lter.github.io/im-manual/site-websites)
-- [Write Ecological Markup Language (EML)](https://lter.github.io/im-manual/eml)
-- [Establish a site GitHub Repository](github-organization-recs.md)
-- [Suggest edits to the IM Manual](https://lter.github.io/im-manual/edits)
+- [I'm brand new to LTER](https://lter.github.io/docs-network/im/new-to-lter.html)
+- [I'm familiar with LTER, but a new Information Manager](http://lter.github.io/docs-network/im/new-to-im.html)
+- [Ask for help with something](http://lter.github.io/docs-network/im/getting-help.html)
+- [Update my site's personnel](http://lter.github.io/docs-network/im/site-personnel.html)
+- [Update my site's publications](https://lter.github.io/docs-network/im/site-publications.html)
+- [Obtain a unique site identifier](https://lter.github.io/docs-network/im/site-identifier.html)
+- [Create (or edit) a site website](https://lter.github.io/docs-network/im/site-websites.html)
+- [Write Ecological Markup Language (EML)](https://lter.github.io/docs-network/im/eml.html)
+- [Establish a site GitHub Organization](https://lter.github.io/docs-network/im/github-organization-recs.html)
+- [Suggest edits to the IM Manual](https://lter.github.io/docs-network/im/edits.html)

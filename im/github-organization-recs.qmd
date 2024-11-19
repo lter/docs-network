@@ -13,7 +13,7 @@ The LTER Network has followed our own advice and has a GitHub Organization which
 
 ## Naming Convention
 
-We recommend adopting a common organization naming convention so that visitors to one organization can easily find the organization of another LTER site. Six sites currently have organizations and the general naming convention is to use the three letter site abbreviation in all caps followed by a hyphen and "LTER" (e.g., "JRN-LTER").
+We recommend adopting a common organization naming convention so that visitors to one organization can easily find the organization of another LTER site. Six sites currently have organizations and the general naming convention is to use the three letter site abbreviation in all caps followed by a hyphen and "LTER" (e.g., "MSP-LTER").
 
 Note that organization names can be changed as needed without breaking an individual user's code but the link to GitHub-hosted websites/etc. will be changed if the organization name changes.
 
@@ -56,4 +56,3 @@ The [Beaufort Lagoon Ecosystem GitHub Organization](https://github.com/BLE-LTER)
 ## GitHub Organization vs. Other Platforms
 
 If you are already using a comparable non-GitHub platform (e.g., [BitBucket](https://bitbucket.org/product), [GitLab](https://about.gitlab.com/), etc.) we still recommend creating a GitHub Organization! At the very least, an organization for your site will give site researchers who do use GitHub a place to store their code and interact with peers who also use GitHub–both at and outside of your site. You can also use the description field of your organization to direct visitors to the link of whichever alternate platform your site decides best fits your needs. Finally, if a majority of sites do create their own organizations, external users will be able to use the standard naming convention to navigate among sites even in cases where each site utilizes the organization at different levels of intensity.
-
