@@ -5,6 +5,10 @@ Updates from the prior version will be listed here as they are made. A version n
 - Moved guidelines for editing the documents in this site out of IM-specific dropdown menu
 - Added dropdown menus (with template home page) for PIs, education committee, broadening participation committee, and the grad committee
     - Specific documentation to be added later
+- Revised the IM page "GitHub Organization Recommendations"
+    - Streamlined existing text based on IM feedback
+    - Added a section clarifying utility of organization over making a user account for the site
+    - Added a section recommending a 'table of contents' repository to help visitors navigate the organization
 
 ## Version 1.0
 
