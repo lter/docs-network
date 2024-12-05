@@ -1,0 +1,10 @@
+---
+title: "Principal Investigator Home"
+format: html
+---
+
+This part of the website is a place for new and experienced LTER principal investigators (PIs) to refer to the latest LTER policy and practice updates.
+
+## *Under Construction!*
+
+Check back later

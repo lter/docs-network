@@ -1,0 +1,10 @@
+---
+title: "Graduate Student Committee Home"
+format: html
+---
+
+This part of the website is a place for members of the graduate student committee to refer to the latest LTER policy and practice updates.
+
+## *Under Construction!*
+
+Check back later

@@ -18,7 +18,7 @@ website:
     left:
       - text: "IMs"
         menu: 
-          - text: "IM Home"
+          - text: "Home"
             href: im/home.qmd
           - text: "New to LTER"
             href: im/new-to-lter.qmd
@@ -36,6 +36,22 @@ website:
             href: im/eml.qmd
           - text: "Site GitHub Orgs"
             href: im/github-organization-recs.qmd
+      - text: "PIs"
+        menu: 
+          - text: "Home"
+            href: pi/home.qmd
+      - text: "Education"
+        menu: 
+          - text: "Home"
+            href: edu/home.qmd
+      - text: "Broadening Participation"
+        menu: 
+          - text: "Home"
+            href: broaden_particip/home.qmd
+      - text: "Grad"
+        menu: 
+          - text: "Home"
+            href: grad/home.qmd
     right: 
       - text: "Editing This Site"
         href: general/edits.qmd
