@@ -5,53 +5,92 @@ format: html
 
 ## Rationale
 
-[GitHub Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) are a great way of centralizing many individual GitHub repositories under a common umbrella. Access to these repositories is easily shared with organization members and limits to this access can be implemented smoothly as desired across groups of users simultaneously. Organizations also "own" repositories which lessens the risk of accidental deletion. Websites created by repositories owned by the same organization have a URL with a shared root which greatly simplifies navigation around the ecosystem of products produced by an organization.
+[GitHub Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) are a great way of centralizing many individual GitHub repositories under a common umbrella. Access to these repositories is easily shared with organization members and limits to this access can be implemented smoothly across groups of users simultaneously. Organizations also "own" repositories which ensures that access to particular repositories cannot be lost with personnel changes.
 
-The LTER Network recommends each LTER site create a GitHub organization for itself and then encourage site staff and visiting researchers to house their repositories there rather than in their own profiles. There are many benefits of GitHub Organizations (including those outlined above) and we hope that you share our excitement for this potential new direction!
+**The LTER Network recommends each LTER site maintain a GitHub organization for itself** and then encourage site staff and visiting researchers to house their repositories there rather than in their own profiles. There are many benefits of GitHub Organizations (including those outlined above) and we hope that you share our excitement for this potential new direction!
 
-The LTER Network has followed our own advice and has a GitHub Organization which you can see [here](https://github.com/lter)!
+The LTER Network Office has followed our own advice and made a GitHub Organization which you can see [here](https://github.com/lter)!
+
+## Site GitHub "User" vs. "Organization"
+
+It may seem simplest to simply make a new GitHub _user_ account for your site (or use your existing personal user account if you have one) but creating a 'true' organization confers several benefits that make it worthwhile:
+
+- Organizations have better tools for granting edit access to groups of users
+    - Through [teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams) (more on this later)
+- Organization membership is displayed on user profiles
+    - So finding the site-level repositories from a user affiliated with the site is straightforward
+- Centralizing code activity related to your site makes summarizing that work easier
+    - E.g., during midterm reviews
+- Websites hosted in an organization have a URL with a shared root
+    - E.g., [lter.github.io/ssecr](https://lter.github.io/ssecr/), [lter.github.io/scicomp](https://lter.github.io/scicomp/), etc.
+
+There are certainly other benefits you'll likely experience after you take the plunge but hopefully this non-exhaustive list is persuasive as a reason to make the shift!
 
 ## Naming Convention
 
-We recommend adopting a common organization naming convention so that visitors to one organization can easily find the organization of another LTER site. Six sites currently have organizations and the general naming convention is to use the three letter site abbreviation in all caps followed by a hyphen and "LTER" (e.g., "MSP-LTER").
+We recommend adopting a common organization naming convention across sites so that visitors to one site's organization can easily find the organization of another LTER site. There is some variance but most of the existing site organizations use the three letter site abbreviation in all caps followed by a hyphen and "LTER" (e.g., "MSP-LTER"). See below for a list of some of the site organizations.
 
-Note that organization names can be changed as needed without breaking an individual user's code but the link to GitHub-hosted websites/etc. will be changed if the organization name changes.
+- Arctic (ARC) GitHub: [LTER-ARC](https://github.com/LTER-ARC)
+- Beaufort Lagoon Ecosystems (BLE) Github: [BLE-LTER](https://github.com/BLE-LTER)
+- Central Arizona-Phoenix (CAP) GitHub: [CAPLTER](https://github.com/CAPLTER) & GitLab: [gitlab.com/caplter](https://gitlab.com/caplter)
+- Georgia Coastal Ecosystems (GCE) GitHub: [GCE-LTER](https://github.com/GCE-LTER)
+- Hubbard Brook (HBR) GitHub: [HBR-LTER](https://github.com/HBR-LTER)
+- Jornada Basin (JRN) GitHub: [jornada-im](https://github.com/jornada-im)
+- Kellogg Biological Station (KBS) GitHub: [KBS-LTER](https://github.com/kbs-lter)
+- Konza Prairie (KNZ) GitHub: [KNZLTER](https://github.com/knzlter)
+- Luquillo (LUQ) GitHub: [LUQ-LTER](https://github.com/LUQ-LTER)
+- Minneapolis-St. Paul (MSP) GitHub: [MSP-LTER](https://github.com/MSP-LTER)
+- Niwot Ridge (NWT) GitHub: [NWTLTER](https://github.com/NWTlter)
+- Northeastern Shelf (NES) GitHub Wiki: [WHOIGit/nes-lter-ims/wiki](https://github.com/WHOIGit/nes-lter-ims/wiki)
+- Palmer (PAL) GitHub: [PAL-LTER](https://github.com/pal-lter)
+- Plum Island Ecosystems (PIE) GitHub: [PIE-LTER](https://github.com/PIE-LTER)
+- Virginia Coast Reserve (VCR) GitHub: [VCR-LTER](https://github.com/VCR-LTER)
+
+**Note that organization names can be changed later without breaking _repository_ links but _deployed website_ links will need to be updated.** For example, changing "github.com/lter/test" to "github.com/lter/my-website" will let existing repository links automatically redirect to the new location but "lter.github.io/test" will throw a 404 error from GitHub (should be "lter.github.io/my-website").
+
+## Administrators
+
+Members of an organization can be designated as "owners" and they will then have access to all possible settings for the organization (including inviting new members and managing repository settings among other powers). [GitHub recommends adding more than one owner](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/maintaining-ownership-continuity-for-your-organization) because if only a single person has that power, access to the organization settings is entirely dependent on that person.
+
+We recommend adding the following people as owners of a site organization:
+
+- Site Primary Investigator
+- Site Information Manager (yourself!)
+- At least one representative of the LTER Network Office
+    - Ideally either Marty Downs ([marty-downs](https://github.com/marty-downs)) and/or Nick Lyon ([njlyon0](https://github.com/njlyon0))
+
+Note that these people must all have a GitHub profile to be added as owners. Even if one of the prospective owners has no other need for a GitHub account, we feel it is worthwhile to have them create a GitHub profile for the sole purpose of allowing back-up access to the organization settings if that becomes necessary.
 
 ## Organization Description & README
 
 We also recommend adding a short description of your site to the organization page, so that visitors have a big-picture overview of your site. In addition, the organization page is a great place to link to your site's main website, your [Research Organization Registry (ROR)](https://ror.org/search?query=LTER), data catalog, or other platforms and build your online presence.
 
-We also recommend that you create a README as a landing page for the Organization. To do this, create a public repository named ".github". Add a "profile" folder and put "README.md" in that folder. The content of the README will then appear on your organization's profile and will be the first thing visitors to the GitHub Organization will see.
+We also recommend that you create a README as a landing page for the Organization. To do this, create a public repository named ".github". Add a "profile" folder and put "README.md" in that folder. The content of the README will then appear on your organization's profile and will be the first thing visitors to the GitHub Organization will see. See the following as an example of this structure: [github.com/lter/.github](https://github.com/lter/.github)
 
-## Administrators
+## Organization Teams
 
-Members of an organization can be designated "owners" and they will then have access to all possible settings for the organization (including inviting new members, changing the organization name, or deleting the organization among other functions). [GitHub recommends adding more than one owner](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/maintaining-ownership-continuity-for-your-organization) because if only a single person has that power, access to the organization settings is entirely dependent on that person.
+GitHub organizations handle access to particular repositories via [teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams). Normally, to share a repository you invite particular users to a given repository from the settings page of that repository. In an organization context, you do the following:
 
-We recommend adding the following people as owners of a site organization:
+1. Create a team
+2. Add all relevant organization members to that team
+    - Note that they _must_ be organization members
+3. Add all relevant repositories to that _team_
+    - When you do this you can choose the level of access all team members have to that repository
 
-- Site Primary Investigator
-- Site Information Manager
-- At least one representative of the LTER Network Office
+This has a few distinct advantages relative to the non-organization method of sharing access.
 
-Note that these people must all have a GitHub profile to be added as owners. Even if one of the prospective owners has no other need for a GitHub account, we feel it is worthwhile to have them create a GitHub profile for the sole purpose of allowing back-up access to the organization settings if that becomes necessary.
+- Users gain access to team repositories without needing to accept a time-sensitive invite
+- When you make a new repository that falls under the purview of an existing team, it takes one action to empower all members of the team to access that repository
+- You can still add users to specific repositories in the way you normally would!
+    - So no lost functionality by embracing teams
 
-## Organization "Teams"
+Note that only organization owners have the power to create teams or modify the level of access granted to existing teams. If a given research group has two or more repositories in the organization we recommend creating a team for that group to streamline access going forward. Consider the [teams in the LTER Network GitHub organization](https://github.com/orgs/lter/teams) as an example for how you might structure your site's organization.
 
-GitHub organizations control access to repositories in a slightly different way than repositories owned by individual users. In a user-owner repository, other profiles can be granted access and as each person is added, their level of access is decided by the profile that owns the repository. In an organization context however, access is controlled by [Organization Teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams). Instead of people being granted access to repositories, teams are granted access to repositories. Users are then added to team(s) as appropriate and their level of access is dictated by [the access of the team](https://docs.github.com/en/enterprise-server@3.7/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization). Note that only organization owners have the power to create teams or modify the level of access granted to existing teams.
+## Table of Contents Repository
 
-We recommend creating the following teams:
+Finally, we recommend creating a 'table of contents' repository when you create your site organization. It might seem excessive when you only have a handful of repositories but starting one early will make it easier to keep an eye on how repositories are organized within your organization (including repository naming conventions and use of [GitHub topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics))
 
-- **"Admin" team** including everyone at the LTER site that should have admin-level access to all repositories (i.e., can change repository-level settings)
-- **"Maintain" team** including all lead researchers who need access to non-destructive actions in repositories (i.e., most repository-level settings)
-- **"Write" team** including everyone who has any need to write any amount of code (i.e., no settings access but able to add/change code in a repository)
-
-You may also want to create additional teams for active research or lab groups that have many repositories where a consistent set of profiles will need access to all of those repositories.
-
-As new repositories are added to the organization, an organization owner will need to add teams to those repositories (so that people in each team have the correct level of access to that repository).
-
-## Example Organization - BLE
-
-The [Beaufort Lagoon Ecosystem GitHub Organization](https://github.com/BLE-LTER) is a phenomenal example of everything we just described above! Check out their organization for a nice example of how one site went about setting up an Organization for themselves.
+The LTER Network organization index repository can be found here: [github.com/lter/lter_github-index](https://github.com/lter/lter_github-index?tab=readme-ov-file#readme) and is directly linked from our organization-level README to make it easier for visitors to find/use that index.
 
 ## GitHub Organization vs. Other Platforms
 
