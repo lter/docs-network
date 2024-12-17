@@ -96,6 +96,12 @@ This has a few distinct advantages relative to the non-organization method of sh
 
 Note that only organization owners have the power to create teams or modify the level of access granted to existing teams. If a given research group has two or more repositories in the organization we recommend creating a team for that group to streamline access going forward. Consider the [teams in the LTER Network GitHub organization](https://github.com/orgs/lter/teams) as an example for how you might structure your site's organization.
 
+### Template Repository
+
+It may be helpful to consider creating a template repository in your Organization so that researchers can easily embrace structural and documentation habits that make your life easier in the long run. For example, the Network Office created a template repository for synthesis working groups (see [here](https://github.com/lter/lterwg-template)) that includes a custom ".gitignore" file and some sub-headings in the README to prompt users to flesh out some valuable documentation early on.
+
+In order to make a template repository, check the "Template repository" checkbox at the very top of a given repository's "General" settings. When organization members create new repositories they can then choose this template instead of doing the typical manual approach to making a new repository.
+
 ### Table of Contents Repository
 
 Finally, we recommend creating a 'table of contents' repository when you create your site organization. It might seem excessive when you only have a handful of repositories but starting one early will make it easier to keep an eye on how repositories are organized within your organization (including repository naming conventions and use of [GitHub topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics))
