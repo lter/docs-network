@@ -3,17 +3,19 @@ title: "GitHub Organization Recommendations"
 format: html
 ---
 
-## Rationale
+## Creating a Site GitHub Organization
+
+### Rationale
 
 [GitHub Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) are a great way of centralizing many individual GitHub repositories under a common umbrella. Access to these repositories is easily shared with organization members and limits to this access can be implemented smoothly across groups of users simultaneously. Organizations also "own" repositories which ensures that access to particular repositories cannot be lost with personnel changes.
 
-**The LTER Network recommends each LTER site maintain a GitHub organization for itself** and then encourage site staff and visiting researchers to house their repositories there rather than in their own profiles. There are many benefits of GitHub Organizations (including those outlined above) and we hope that you share our excitement for this potential new direction!
+**The LTER Network recommends each LTER site create and maintain a GitHub organization for itself** and then encourage site staff and visiting researchers to house their repositories there rather than in their own profiles. There are many benefits of GitHub Organizations (including those outlined above) and we hope that you share our excitement for this potential new direction!
 
 The LTER Network Office has followed our own advice and made a GitHub Organization which you can see [here](https://github.com/lter)!
 
-## Site GitHub "User" vs. "Organization"
+### GitHub User vs. Organization
 
-It may seem simplest to simply make a new GitHub _user_ account for your site (or use your existing personal user account if you have one) but creating a 'true' organization confers several benefits that make it worthwhile:
+It may seem simplest to just make a new GitHub _user_ account for your site (or use your existing personal user account for that purpose) but creating a 'true' organization confers several benefits that make it worthwhile:
 
 - Organizations have better tools for granting edit access to groups of users
     - Through [teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams) (more on this later)
@@ -26,7 +28,7 @@ It may seem simplest to simply make a new GitHub _user_ account for your site (o
 
 There are certainly other benefits you'll likely experience after you take the plunge but hopefully this non-exhaustive list is persuasive as a reason to make the shift!
 
-## Naming Convention
+### Naming Convention
 
 We recommend adopting a common organization naming convention across sites so that visitors to one site's organization can easily find the organization of another LTER site. There is some variance but most of the existing site organizations use the three letter site abbreviation in all caps followed by a hyphen and "LTER" (e.g., "MSP-LTER"). See below for a list of some of the site organizations.
 
@@ -48,7 +50,7 @@ We recommend adopting a common organization naming convention across sites so th
 
 **Note that organization names can be changed later without breaking _repository_ links but _deployed website_ links will need to be updated.** For example, changing "github.com/lter/test" to "github.com/lter/my-website" will let existing repository links automatically redirect to the new location but "lter.github.io/test" will throw a 404 error from GitHub (should be "lter.github.io/my-website").
 
-## Administrators
+### Administrators
 
 Members of an organization can be designated as "owners" and they will then have access to all possible settings for the organization (including inviting new members and managing repository settings among other powers). [GitHub recommends adding more than one owner](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/maintaining-ownership-continuity-for-your-organization) because if only a single person has that power, access to the organization settings is entirely dependent on that person.
 
@@ -61,37 +63,41 @@ We recommend adding the following people as owners of a site organization:
 
 Note that these people must all have a GitHub profile to be added as owners. Even if one of the prospective owners has no other need for a GitHub account, we feel it is worthwhile to have them create a GitHub profile for the sole purpose of allowing back-up access to the organization settings if that becomes necessary.
 
-## Organization Description & README
+### Organization Description
 
 We also recommend adding a short description of your site to the organization page, so that visitors have a big-picture overview of your site. In addition, the organization page is a great place to link to your site's main website, your [Research Organization Registry (ROR)](https://ror.org/search?query=LTER), data catalog, or other platforms and build your online presence.
 
 We also recommend that you create a README as a landing page for the Organization. To do this, create a public repository named ".github". Add a "profile" folder and put "README.md" in that folder. The content of the README will then appear on your organization's profile and will be the first thing visitors to the GitHub Organization will see. See the following as an example of this structure: [github.com/lter/.github](https://github.com/lter/.github)
 
-## Organization Teams
+### GitHub vs. GitLab/etc.
+
+If you are already using a comparable non-GitHub platform (e.g., [BitBucket](https://bitbucket.org/product), [GitLab](https://about.gitlab.com/), etc.) we still recommend creating a GitHub Organization! At the very least, an organization for your site will give site researchers who do use GitHub a place to store their code and interact with peers who also use GitHub–both at and outside of your site. You can also use the description field of your organization to direct visitors to the link of whichever alternate platform your site decides best fits your needs. Finally, if a majority of sites do create their own organizations, external users will be able to use the standard naming convention to navigate among sites even in cases where each site utilizes the organization at different levels of intensity.
+
+## Maintaining a Site GitHub Organization
+
+Once you've created a GitHub organization for your site, there are some ongoing maintenance tasks you may want to have on your radar.
+
+### Organization Teams
 
 GitHub organizations handle access to particular repositories via [teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams). Normally, to share a repository you invite particular users to a given repository from the settings page of that repository. In an organization context, you do the following:
 
 1. Create a team
 2. Add all relevant organization members to that team
-    - Note that they _must_ be organization members
-3. Add all relevant repositories to that _team_
+    - Note that they _must_ be organization members beforehand
+3. Add all relevant repositories to that team
     - When you do this you can choose the level of access all team members have to that repository
 
 This has a few distinct advantages relative to the non-organization method of sharing access.
 
 - Users gain access to team repositories without needing to accept a time-sensitive invite
-- When you make a new repository that falls under the purview of an existing team, it takes one action to empower all members of the team to access that repository
+- When you make a new repository that falls under the purview of an existing team, it takes one click from you to empower all members of the team to access that repository rather than requiring labor-intensive individual invites
 - You can still add users to specific repositories in the way you normally would!
     - So no lost functionality by embracing teams
 
 Note that only organization owners have the power to create teams or modify the level of access granted to existing teams. If a given research group has two or more repositories in the organization we recommend creating a team for that group to streamline access going forward. Consider the [teams in the LTER Network GitHub organization](https://github.com/orgs/lter/teams) as an example for how you might structure your site's organization.
 
-## Table of Contents Repository
+### Table of Contents Repository
 
 Finally, we recommend creating a 'table of contents' repository when you create your site organization. It might seem excessive when you only have a handful of repositories but starting one early will make it easier to keep an eye on how repositories are organized within your organization (including repository naming conventions and use of [GitHub topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics))
 
 The LTER Network organization index repository can be found here: [github.com/lter/lter_github-index](https://github.com/lter/lter_github-index?tab=readme-ov-file#readme) and is directly linked from our organization-level README to make it easier for visitors to find/use that index.
-
-## GitHub Organization vs. Other Platforms
-
-If you are already using a comparable non-GitHub platform (e.g., [BitBucket](https://bitbucket.org/product), [GitLab](https://about.gitlab.com/), etc.) we still recommend creating a GitHub Organization! At the very least, an organization for your site will give site researchers who do use GitHub a place to store their code and interact with peers who also use GitHub–both at and outside of your site. You can also use the description field of your organization to direct visitors to the link of whichever alternate platform your site decides best fits your needs. Finally, if a majority of sites do create their own organizations, external users will be able to use the standard naming convention to navigate among sites even in cases where each site utilizes the organization at different levels of intensity.
