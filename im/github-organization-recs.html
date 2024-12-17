@@ -40,8 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d166b450ba5a8e9f7a0ab969bf6592c1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-e073700c7c9e72cd2390bd3c14ede194.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-07fb74d3ee6c78b2ebb5d77453e9060c.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-3ec07888264c3a537859fb7976904aee.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-da95e09ad1558517470b796fe10d7372.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -205,14 +205,21 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#rationale" id="toc-rationale" class="nav-link active" data-scroll-target="#rationale">Rationale</a></li>
-  <li><a href="#site-github-user-vs.-organization" id="toc-site-github-user-vs.-organization" class="nav-link" data-scroll-target="#site-github-user-vs.-organization">Site GitHub “User” vs.&nbsp;“Organization”</a></li>
+  <li><a href="#creating-a-site-github-organization" id="toc-creating-a-site-github-organization" class="nav-link active" data-scroll-target="#creating-a-site-github-organization">Creating a Site GitHub Organization</a>
+  <ul class="collapse">
+  <li><a href="#rationale" id="toc-rationale" class="nav-link" data-scroll-target="#rationale">Rationale</a></li>
+  <li><a href="#github-user-vs.-organization" id="toc-github-user-vs.-organization" class="nav-link" data-scroll-target="#github-user-vs.-organization">GitHub User vs.&nbsp;Organization</a></li>
   <li><a href="#naming-convention" id="toc-naming-convention" class="nav-link" data-scroll-target="#naming-convention">Naming Convention</a></li>
   <li><a href="#administrators" id="toc-administrators" class="nav-link" data-scroll-target="#administrators">Administrators</a></li>
-  <li><a href="#organization-description-readme" id="toc-organization-description-readme" class="nav-link" data-scroll-target="#organization-description-readme">Organization Description &amp; README</a></li>
+  <li><a href="#organization-description" id="toc-organization-description" class="nav-link" data-scroll-target="#organization-description">Organization Description</a></li>
+  <li><a href="#github-vs.-gitlabetc." id="toc-github-vs.-gitlabetc." class="nav-link" data-scroll-target="#github-vs.-gitlabetc.">GitHub vs.&nbsp;GitLab/etc.</a></li>
+  </ul></li>
+  <li><a href="#maintaining-a-site-github-organization" id="toc-maintaining-a-site-github-organization" class="nav-link" data-scroll-target="#maintaining-a-site-github-organization">Maintaining a Site GitHub Organization</a>
+  <ul class="collapse">
   <li><a href="#organization-teams" id="toc-organization-teams" class="nav-link" data-scroll-target="#organization-teams">Organization Teams</a></li>
+  <li><a href="#template-repository" id="toc-template-repository" class="nav-link" data-scroll-target="#template-repository">Template Repository</a></li>
   <li><a href="#table-of-contents-repository" id="toc-table-of-contents-repository" class="nav-link" data-scroll-target="#table-of-contents-repository">Table of Contents Repository</a></li>
-  <li><a href="#github-organization-vs.-other-platforms" id="toc-github-organization-vs.-other-platforms" class="nav-link" data-scroll-target="#github-organization-vs.-other-platforms">GitHub Organization vs.&nbsp;Other Platforms</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/lter/docs-network/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -238,15 +245,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="rationale" class="level2">
-<h2 class="anchored" data-anchor-id="rationale">Rationale</h2>
+<section id="creating-a-site-github-organization" class="level2">
+<h2 class="anchored" data-anchor-id="creating-a-site-github-organization">Creating a Site GitHub Organization</h2>
+<section id="rationale" class="level3">
+<h3 class="anchored" data-anchor-id="rationale">Rationale</h3>
 <p><a href="https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations">GitHub Organizations</a> are a great way of centralizing many individual GitHub repositories under a common umbrella. Access to these repositories is easily shared with organization members and limits to this access can be implemented smoothly across groups of users simultaneously. Organizations also “own” repositories which ensures that access to particular repositories cannot be lost with personnel changes.</p>
-<p><strong>The LTER Network recommends each LTER site maintain a GitHub organization for itself</strong> and then encourage site staff and visiting researchers to house their repositories there rather than in their own profiles. There are many benefits of GitHub Organizations (including those outlined above) and we hope that you share our excitement for this potential new direction!</p>
+<p><strong>The LTER Network recommends each LTER site create and maintain a GitHub organization for itself</strong> and then encourage site staff and visiting researchers to house their repositories there rather than in their own profiles. There are many benefits of GitHub Organizations (including those outlined above) and we hope that you share our excitement for this potential new direction!</p>
 <p>The LTER Network Office has followed our own advice and made a GitHub Organization which you can see <a href="https://github.com/lter">here</a>!</p>
 </section>
-<section id="site-github-user-vs.-organization" class="level2">
-<h2 class="anchored" data-anchor-id="site-github-user-vs.-organization">Site GitHub “User” vs.&nbsp;“Organization”</h2>
-<p>It may seem simplest to simply make a new GitHub <em>user</em> account for your site (or use your existing personal user account if you have one) but creating a ‘true’ organization confers several benefits that make it worthwhile:</p>
+<section id="github-user-vs.-organization" class="level3">
+<h3 class="anchored" data-anchor-id="github-user-vs.-organization">GitHub User vs.&nbsp;Organization</h3>
+<p>It may seem simplest to just make a new GitHub <em>user</em> account for your site (or use your existing personal user account for that purpose) but creating a ‘true’ organization confers several benefits that make it worthwhile:</p>
 <ul>
 <li>Organizations have better tools for granting edit access to groups of users
 <ul>
@@ -267,8 +276,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>There are certainly other benefits you’ll likely experience after you take the plunge but hopefully this non-exhaustive list is persuasive as a reason to make the shift!</p>
 </section>
-<section id="naming-convention" class="level2">
-<h2 class="anchored" data-anchor-id="naming-convention">Naming Convention</h2>
+<section id="naming-convention" class="level3">
+<h3 class="anchored" data-anchor-id="naming-convention">Naming Convention</h3>
 <p>We recommend adopting a common organization naming convention across sites so that visitors to one site’s organization can easily find the organization of another LTER site. There is some variance but most of the existing site organizations use the three letter site abbreviation in all caps followed by a hyphen and “LTER” (e.g., “MSP-LTER”). See below for a list of some of the site organizations.</p>
 <ul>
 <li>Arctic (ARC) GitHub: <a href="https://github.com/LTER-ARC">LTER-ARC</a></li>
@@ -289,8 +298,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p><strong>Note that organization names can be changed later without breaking <em>repository</em> links but <em>deployed website</em> links will need to be updated.</strong> For example, changing “github.com/lter/test” to “github.com/lter/my-website” will let existing repository links automatically redirect to the new location but “lter.github.io/test” will throw a 404 error from GitHub (should be “lter.github.io/my-website”).</p>
 </section>
-<section id="administrators" class="level2">
-<h2 class="anchored" data-anchor-id="administrators">Administrators</h2>
+<section id="administrators" class="level3">
+<h3 class="anchored" data-anchor-id="administrators">Administrators</h3>
 <p>Members of an organization can be designated as “owners” and they will then have access to all possible settings for the organization (including inviting new members and managing repository settings among other powers). <a href="https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/maintaining-ownership-continuity-for-your-organization">GitHub recommends adding more than one owner</a> because if only a single person has that power, access to the organization settings is entirely dependent on that person.</p>
 <p>We recommend adding the following people as owners of a site organization:</p>
 <ul>
@@ -303,21 +312,29 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>Note that these people must all have a GitHub profile to be added as owners. Even if one of the prospective owners has no other need for a GitHub account, we feel it is worthwhile to have them create a GitHub profile for the sole purpose of allowing back-up access to the organization settings if that becomes necessary.</p>
 </section>
-<section id="organization-description-readme" class="level2">
-<h2 class="anchored" data-anchor-id="organization-description-readme">Organization Description &amp; README</h2>
+<section id="organization-description" class="level3">
+<h3 class="anchored" data-anchor-id="organization-description">Organization Description</h3>
 <p>We also recommend adding a short description of your site to the organization page, so that visitors have a big-picture overview of your site. In addition, the organization page is a great place to link to your site’s main website, your <a href="https://ror.org/search?query=LTER">Research Organization Registry (ROR)</a>, data catalog, or other platforms and build your online presence.</p>
 <p>We also recommend that you create a README as a landing page for the Organization. To do this, create a public repository named “.github”. Add a “profile” folder and put “README.md” in that folder. The content of the README will then appear on your organization’s profile and will be the first thing visitors to the GitHub Organization will see. See the following as an example of this structure: <a href="https://github.com/lter/.github">github.com/lter/.github</a></p>
 </section>
-<section id="organization-teams" class="level2">
-<h2 class="anchored" data-anchor-id="organization-teams">Organization Teams</h2>
+<section id="github-vs.-gitlabetc." class="level3">
+<h3 class="anchored" data-anchor-id="github-vs.-gitlabetc.">GitHub vs.&nbsp;GitLab/etc.</h3>
+<p>If you are already using a comparable non-GitHub platform (e.g., <a href="https://bitbucket.org/product">BitBucket</a>, <a href="https://about.gitlab.com/">GitLab</a>, etc.) we still recommend creating a GitHub Organization! At the very least, an organization for your site will give site researchers who do use GitHub a place to store their code and interact with peers who also use GitHub–both at and outside of your site. You can also use the description field of your organization to direct visitors to the link of whichever alternate platform your site decides best fits your needs. Finally, if a majority of sites do create their own organizations, external users will be able to use the standard naming convention to navigate among sites even in cases where each site utilizes the organization at different levels of intensity.</p>
+</section>
+</section>
+<section id="maintaining-a-site-github-organization" class="level2">
+<h2 class="anchored" data-anchor-id="maintaining-a-site-github-organization">Maintaining a Site GitHub Organization</h2>
+<p>Once you’ve created a GitHub organization for your site, there are some ongoing maintenance tasks you may want to have on your radar.</p>
+<section id="organization-teams" class="level3">
+<h3 class="anchored" data-anchor-id="organization-teams">Organization Teams</h3>
 <p>GitHub organizations handle access to particular repositories via <a href="https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams">teams</a>. Normally, to share a repository you invite particular users to a given repository from the settings page of that repository. In an organization context, you do the following:</p>
 <ol type="1">
 <li>Create a team</li>
 <li>Add all relevant organization members to that team
 <ul>
-<li>Note that they <em>must</em> be organization members</li>
+<li>Note that they <em>must</em> be organization members beforehand</li>
 </ul></li>
-<li>Add all relevant repositories to that <em>team</em>
+<li>Add all relevant repositories to that team
 <ul>
 <li>When you do this you can choose the level of access all team members have to that repository</li>
 </ul></li>
@@ -325,7 +342,7 @@ ul.task-list li input[type="checkbox"] {
 <p>This has a few distinct advantages relative to the non-organization method of sharing access.</p>
 <ul>
 <li>Users gain access to team repositories without needing to accept a time-sensitive invite</li>
-<li>When you make a new repository that falls under the purview of an existing team, it takes one action to empower all members of the team to access that repository</li>
+<li>When you make a new repository that falls under the purview of an existing team, it takes one click from you to empower all members of the team to access that repository rather than requiring labor-intensive individual invites</li>
 <li>You can still add users to specific repositories in the way you normally would!
 <ul>
 <li>So no lost functionality by embracing teams</li>
@@ -333,16 +350,18 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>Note that only organization owners have the power to create teams or modify the level of access granted to existing teams. If a given research group has two or more repositories in the organization we recommend creating a team for that group to streamline access going forward. Consider the <a href="https://github.com/orgs/lter/teams">teams in the LTER Network GitHub organization</a> as an example for how you might structure your site’s organization.</p>
 </section>
-<section id="table-of-contents-repository" class="level2">
-<h2 class="anchored" data-anchor-id="table-of-contents-repository">Table of Contents Repository</h2>
+<section id="template-repository" class="level3">
+<h3 class="anchored" data-anchor-id="template-repository">Template Repository</h3>
+<p>It may be helpful to consider creating a template repository in your Organization so that researchers can easily embrace structural and documentation habits that make your life easier in the long run. For example, the Network Office created a template repository for synthesis working groups (see <a href="https://github.com/lter/lterwg-template">here</a>) that includes a custom “.gitignore” file and some sub-headings in the README to prompt users to flesh out some valuable documentation early on.</p>
+<p>In order to make a template repository, check the “Template repository” checkbox at the very top of a given repository’s “General” settings. When organization members create new repositories they can then choose this template instead of doing the typical manual approach to making a new repository.</p>
+</section>
+<section id="table-of-contents-repository" class="level3">
+<h3 class="anchored" data-anchor-id="table-of-contents-repository">Table of Contents Repository</h3>
 <p>Finally, we recommend creating a ‘table of contents’ repository when you create your site organization. It might seem excessive when you only have a handful of repositories but starting one early will make it easier to keep an eye on how repositories are organized within your organization (including repository naming conventions and use of <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics">GitHub topics</a>)</p>
 <p>The LTER Network organization index repository can be found here: <a href="https://github.com/lter/lter_github-index?tab=readme-ov-file#readme">github.com/lter/lter_github-index</a> and is directly linked from our organization-level README to make it easier for visitors to find/use that index.</p>
+
+
 </section>
-<section id="github-organization-vs.-other-platforms" class="level2">
-<h2 class="anchored" data-anchor-id="github-organization-vs.-other-platforms">GitHub Organization vs.&nbsp;Other Platforms</h2>
-<p>If you are already using a comparable non-GitHub platform (e.g., <a href="https://bitbucket.org/product">BitBucket</a>, <a href="https://about.gitlab.com/">GitLab</a>, etc.) we still recommend creating a GitHub Organization! At the very least, an organization for your site will give site researchers who do use GitHub a place to store their code and interact with peers who also use GitHub–both at and outside of your site. You can also use the description field of your organization to direct visitors to the link of whichever alternate platform your site decides best fits your needs. Finally, if a majority of sites do create their own organizations, external users will be able to use the standard naming convention to navigate among sites even in cases where each site utilizes the organization at different levels of intensity.</p>
-
-
 </section>
 
 </main> <!-- /main -->
