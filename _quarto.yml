@@ -44,6 +44,12 @@ website:
         menu: 
           - text: "Home"
             href: edu/home.qmd
+          - text: "Activities"
+            href: edu/activities.qmd
+          - text: "Bylaws"
+            href: edu/bylaws.qmd
+          - text: "Resources"
+            href: edu/resources.qmd
       - text: "Broadening Participation"
         menu: 
           - text: "Home"
