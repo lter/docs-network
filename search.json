@@ -154,18 +154,32 @@
     "text": "Under Construction!\nCheck back later"
   },
   {
-    "objectID": "edu/home.html",
-    "href": "edu/home.html",
-    "title": "Education Committee Home",
+    "objectID": "edu/resources.html",
+    "href": "edu/resources.html",
+    "title": "EOC Resources",
     "section": "",
-    "text": "This part of the website is a place for members of the education committee to refer to the latest LTER policy and practice updates."
+    "text": "Check back later"
   },
   {
-    "objectID": "edu/home.html#under-construction",
-    "href": "edu/home.html#under-construction",
-    "title": "Education Committee Home",
-    "section": "Under Construction!",
-    "text": "Under Construction!\nCheck back later"
+    "objectID": "edu/resources.html#under-construction",
+    "href": "edu/resources.html#under-construction",
+    "title": "EOC Resources",
+    "section": "",
+    "text": "Check back later"
+  },
+  {
+    "objectID": "edu/bylaws.html",
+    "href": "edu/bylaws.html",
+    "title": "EOC Bylaws and Meeting Guidance",
+    "section": "",
+    "text": "Check back later"
+  },
+  {
+    "objectID": "edu/bylaws.html#under-construction",
+    "href": "edu/bylaws.html#under-construction",
+    "title": "EOC Bylaws and Meeting Guidance",
+    "section": "",
+    "text": "Check back later"
   },
   {
     "objectID": "broaden_particip/home.html",
@@ -178,6 +192,34 @@
     "objectID": "broaden_particip/home.html#under-construction",
     "href": "broaden_particip/home.html#under-construction",
     "title": "Broadening Participation Committee Home",
+    "section": "Under Construction!",
+    "text": "Under Construction!\nCheck back later"
+  },
+  {
+    "objectID": "edu/activities.html",
+    "href": "edu/activities.html",
+    "title": "EOC Activities",
+    "section": "",
+    "text": "Check back later"
+  },
+  {
+    "objectID": "edu/activities.html#under-construction",
+    "href": "edu/activities.html#under-construction",
+    "title": "EOC Activities",
+    "section": "",
+    "text": "Check back later"
+  },
+  {
+    "objectID": "edu/home.html",
+    "href": "edu/home.html",
+    "title": "Education & Outreach Committee (EOC) Home",
+    "section": "",
+    "text": "This part of the website is a place for members of the education & outreach committee to refer to the latest LTER policy and practice updates."
+  },
+  {
+    "objectID": "edu/home.html#under-construction",
+    "href": "edu/home.html#under-construction",
+    "title": "Education & Outreach Committee (EOC) Home",
     "section": "Under Construction!",
     "text": "Under Construction!\nCheck back later"
   },
