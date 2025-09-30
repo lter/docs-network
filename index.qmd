@@ -5,22 +5,22 @@ format: html
 
 This website is the living home for shareable documentation and policies for the LTER Network. For more information about LTER, see [lternet.edu](https://lternet.edu/). There are several separate areas of documentation described below.
 
-### Information Managers
+### [Information Managers](im/home.qmd)
 
 Every LTER site has an "information manager". These staff members are responsible for a variety of technical tasks at their respective sites, primarily centered around the management and archiving of the huge volumes of data produced by the long-term research performed at each site. Documents relevant to IMs can be found under the eponymous dropdown menu.
 
-### Principal Investigators
+### [Principal Investigators](pi/home.qmd)
 
 _Under Construction! Check back later_
 
-### Education Committee
+### [Education Committee](edu/home.qmd)
 
 _Under Construction! Check back later_
 
-### Broadening Participation Committee
+### [Broadening Participation Committee](bp/home.qmd)
 
 _Under Construction! Check back later_
 
-### Graduate Student Committee
+### [Graduate Student Committee](grad/home.qmd)
 
 _Under Construction! Check back later_
