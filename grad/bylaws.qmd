@@ -1,11 +1,6 @@
----
-title: "bylaws"
-format: html
----
-
 # LTER Graduate Student Committee By-laws
 
-Updated May 2024
+*Updated May 2024*
 
 ## Land Acknowledgement
 
@@ -56,3 +51,4 @@ Funds can be requested from the LTER Network Office to support GSC activities an
 ### Diversity and Inclusion Statement 
 
 The LTER GSC is committed to fostering an environment that values diversity, multiculturalism, inclusion, and equity. The GSC will actively engage with the LTER community to embrace diversity and inclusion as part of our core values to develop a strong community network. The GSC strives to create a welcoming and inclusive environment by giving everyone the opportunity to contribute, including students from sites that are not graduate representatives. We will not tolerate microaggressions or actions that discriminate against marginalized communities (such as hate speech, misgendering, etc.). We are committed to making meetings and events accessible to all.
+
