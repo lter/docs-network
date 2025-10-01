@@ -1,0 +1,7 @@
+---
+title: "Useful Links for LTER Information Managers"
+format: html
+---
+
+*  Environmental Data Initiative [Resources for Information Managers](https://edirepository.org/resources/resources-for-information-managers)
+*  [Zotero Best Practices Guidance](https://docs.google.com/document/d/1aaM2htz4rJLGo5XFuk88AWxO_sWmZl2TY0EEA7q7LMY/edit?tab=t.0#heading=h.41s6zixhzhd9). Last updated 2022.

@@ -20,4 +20,6 @@ Any LTER information manager may make edits to these pages, but it is likely to 
 - [Create (or edit) a site website](https://lter.github.io/docs-network/im/site-websites.html)
 - [Write Ecological Markup Language (EML)](https://lter.github.io/docs-network/im/eml.html)
 - [Establish a site GitHub Organization](https://lter.github.io/docs-network/im/github-organization-recs.html)
+- [Find Links to additional information](useful_links.html)
 - [Suggest edits to the IM Manual](https://lter.github.io/docs-network/im/edits.html)
+

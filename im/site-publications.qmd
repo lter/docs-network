@@ -34,9 +34,9 @@ Zotero is becoming the most common system for maintaining a publication database
 
 ## Zotero Updates
 
-1. Set up a Zotero account and a group library.
+1. Set up a Zotero account and a group library. The [Zotero Best Practices Guide](https://docs.google.com/document/d/1aaM2htz4rJLGo5XFuk88AWxO_sWmZl2TY0EEA7q7LMY/edit?tab=t.0#heading=h.41s6zixhzhd9) serves as a useful orientation. 
 2. Download and install the Zotero desktop client and the browser add-on for the browser of your choice. 
-3. To facilitate sharing of publications that meet the criteria for inclusion in the Network bibliography, it's helpful to add a "for the Network" collection. Collections operate like tags. There's only one copy of the record -- it just appears in multiple collections. So when you update it (with, say added tags or a print publication date), it is updated in all the collections within your library where it exists.
+3. To facilitate sharing of publications that meet the criteria for inclusion in the Network bibliography, it's helpful to add a "For-Network" collection. Collections operate like tags. There's only one copy of the record -- it just appears in multiple collections. So when you update it (with, say, added tags or a print publication date), it is updated in all the collections within your library where it exists.
 4. Import your publications to your desktop Zotero client. Add a tag (LTER-XXX, where XXX= your site's 3-letter acronym) to indicate which site(s) are associated with the publication. If it is a cross-site collaborative publication, do your best to add the tags for related sites, as well as the "cross-site" tag. If it is an information management-related publication, add LTER-IM and if it is an education-related publication, add LTER-EDU. Do your best with these, but they don't have to be perfect. The LNO will also attend to adding necessary tags.
 5. Always include a DOI for items when available. This can help identify duplicates when the LNO adds new items to a network-wide bibliography.
 6. Sync your desktop client with your online group library.
