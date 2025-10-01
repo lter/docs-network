@@ -154,44 +154,23 @@
     "text": "Under Construction!\nCheck back later"
   },
   {
-    "objectID": "edu/resources.html",
-    "href": "edu/resources.html",
-    "title": "EOC Resources",
+    "objectID": "general/edits.html",
+    "href": "general/edits.html",
+    "title": "Editing This Website",
     "section": "",
-    "text": "Check back later"
+    "text": "We welcome edits to these documents! See below for the type of edit that fits your needs.\n\nMake Edits\nIf you are a member of the Network Office or an Information Manager you should already have edit access. We do ask that any edits you make adhere to the guidelines suggested in CONTRIBUTING.md.\n\n\nSuggest Edits\nIf you do not have edit access and/or want to just post a suggestion or comment, the best approach is to create a Github issue on the repository that builds this website. Click here to start making an issue. You can use plain text to describe your issue, but if you want to take advantage of more advanced features, check out GitHub’s Quickstart guide."
   },
   {
-    "objectID": "edu/resources.html#under-construction",
-    "href": "edu/resources.html#under-construction",
-    "title": "EOC Resources",
+    "objectID": "edu/home.html",
+    "href": "edu/home.html",
+    "title": "Education & Outreach Committee (EOC) Home",
     "section": "",
-    "text": "Check back later"
+    "text": "This part of the website is a place for members of the education & outreach committee to refer to the latest LTER policy and practice updates."
   },
   {
-    "objectID": "edu/bylaws.html",
-    "href": "edu/bylaws.html",
-    "title": "EOC Bylaws and Meeting Guidance",
-    "section": "",
-    "text": "Check back later"
-  },
-  {
-    "objectID": "edu/bylaws.html#under-construction",
-    "href": "edu/bylaws.html#under-construction",
-    "title": "EOC Bylaws and Meeting Guidance",
-    "section": "",
-    "text": "Check back later"
-  },
-  {
-    "objectID": "broaden_particip/home.html",
-    "href": "broaden_particip/home.html",
-    "title": "Broadening Participation Committee Home",
-    "section": "",
-    "text": "This part of the website is a place for members of the broadening participation committee to refer to the latest LTER policy and practice updates."
-  },
-  {
-    "objectID": "broaden_particip/home.html#under-construction",
-    "href": "broaden_particip/home.html#under-construction",
-    "title": "Broadening Participation Committee Home",
+    "objectID": "edu/home.html#under-construction",
+    "href": "edu/home.html#under-construction",
+    "title": "Education & Outreach Committee (EOC) Home",
     "section": "Under Construction!",
     "text": "Under Construction!\nCheck back later"
   },
@@ -210,25 +189,46 @@
     "text": "Check back later"
   },
   {
-    "objectID": "edu/home.html",
-    "href": "edu/home.html",
-    "title": "Education & Outreach Committee (EOC) Home",
+    "objectID": "broaden_particip/home.html",
+    "href": "broaden_particip/home.html",
+    "title": "Broadening Participation Committee Home",
     "section": "",
-    "text": "This part of the website is a place for members of the education & outreach committee to refer to the latest LTER policy and practice updates."
+    "text": "This part of the website is a place for members of the broadening participation committee to refer to the latest LTER policy and practice updates."
   },
   {
-    "objectID": "edu/home.html#under-construction",
-    "href": "edu/home.html#under-construction",
-    "title": "Education & Outreach Committee (EOC) Home",
+    "objectID": "broaden_particip/home.html#under-construction",
+    "href": "broaden_particip/home.html#under-construction",
+    "title": "Broadening Participation Committee Home",
     "section": "Under Construction!",
     "text": "Under Construction!\nCheck back later"
   },
   {
-    "objectID": "general/edits.html",
-    "href": "general/edits.html",
-    "title": "Editing This Website",
+    "objectID": "edu/bylaws.html",
+    "href": "edu/bylaws.html",
+    "title": "EOC Bylaws and Meeting Guidance",
     "section": "",
-    "text": "We welcome edits to these documents! See below for the type of edit that fits your needs.\n\nMake Edits\nIf you are a member of the Network Office or an Information Manager you should already have edit access. We do ask that any edits you make adhere to the guidelines suggested in CONTRIBUTING.md.\n\n\nSuggest Edits\nIf you do not have edit access and/or want to just post a suggestion or comment, the best approach is to create a Github issue on the repository that builds this website. Click here to start making an issue. You can use plain text to describe your issue, but if you want to take advantage of more advanced features, check out GitHub’s Quickstart guide."
+    "text": "Check back later"
+  },
+  {
+    "objectID": "edu/bylaws.html#under-construction",
+    "href": "edu/bylaws.html#under-construction",
+    "title": "EOC Bylaws and Meeting Guidance",
+    "section": "",
+    "text": "Check back later"
+  },
+  {
+    "objectID": "edu/resources.html",
+    "href": "edu/resources.html",
+    "title": "EOC Resources",
+    "section": "",
+    "text": "Check back later"
+  },
+  {
+    "objectID": "edu/resources.html#under-construction",
+    "href": "edu/resources.html#under-construction",
+    "title": "EOC Resources",
+    "section": "",
+    "text": "Check back later"
   },
   {
     "objectID": "im/biblio-fields.html",
