@@ -140,6 +140,13 @@
     "text": "Identifying LTER Site\nPlease use the linked entry-types and fields when exporting your BibTex file. In addition to the required fields listed below under each entry type, please ensure that your export includes a keyword identifying your LTER site and one or both of two standard fields for linking to the product:\n\nLTER site keyword format (or tag in Zotero): LTER-XXX, where XXX=your three-letter site acronym\nDOI (if available) or URL (if available)"
   },
   {
+    "objectID": "grad/mission_goals.html",
+    "href": "grad/mission_goals.html",
+    "title": "LTER Graduate Student Representatives Mission Statement and Goals",
+    "section": "",
+    "text": "Building graduate student networks between and within LTER sites to provide support for student collaboration, funding, and inclusion.\nGraduate representatives aim to:\n\nCreate an inclusive and supportive community to foster dialogue and collaboration among graduate student researchers\n\nRegional meetings within and across sites\nMeet-up at annual conferences such as AGU, ESA, etc.\nSister sites - find institutions or sites that are close/associated and host tours and research presentation/discussions\n\nProvide a resource for professional development and networking\n\nReach out to LTER alumni who work in various different fields after grad school\nHost webinar/local events that are aimed at providing current students with knowledge, resources, and support\nRegular emails that contain fellowships, workshops, postdoc positions, research initiatives, etc. \n\nServe as a liaison between graduate students and PIs\n\nIncreased transparency between PIs and graduate students\nGraduate students should be more involved in site review to better understand the logistic and administrative components of the LTERs"
+  },
+  {
     "objectID": "grad/bylaws.html",
     "href": "grad/bylaws.html",
     "title": "LTER Graduate Student Committee By-laws",
