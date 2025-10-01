@@ -5,6 +5,9 @@ format: html
 
 This part of the website is a place for members of the graduate student committee to refer to the latest LTER policy and practice updates.
 
-## *Under Construction!*
-
-Check back later
+## [Bylaws](bylaws.qmd)
+## [Graduate Student Representative Mission and Goals](mission_goals.qmd)
+## [Graduate Student Representative Orientation](orientation.qmd)
+## [Graduate Student Representative Duties](duties.qmd)
+## [Working Group Description](wg_description.qmd)
+## [Welcome Email](email.qmd)
