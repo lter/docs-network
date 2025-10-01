@@ -2,110 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lter.github.io/docs-network/pi/home.html</loc>
-    <lastmod>2025-10-01T22:02:31.753Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.466Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/site-websites.html</loc>
-    <lastmod>2025-10-01T22:02:31.752Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.465Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/site-personnel.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/new-to-lter.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/home.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/getting-help.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/bibtex.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/grad/wg_description.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/grad/mission_goals.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lter.github.io/docs-network/grad/email.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lter.github.io/docs-network/grad/bylaws.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lter.github.io/docs-network/edu/resources.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lter.github.io/docs-network/edu/bylaws.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lter.github.io/docs-network/broaden_particip/home.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lter.github.io/docs-network/edu/activities.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lter.github.io/docs-network/edu/home.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lter.github.io/docs-network/general/edits.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/grad/duties.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/general/edits.html</loc>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/edu/home.html</loc>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/edu/activities.html</loc>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/broaden_particip/home.html</loc>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/edu/bylaws.html</loc>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/edu/resources.html</loc>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lter.github.io/docs-network/grad/bylaws.html</loc>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/grad/home.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/grad/orientation.html</loc>
-    <lastmod>2025-10-01T22:02:31.750Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.463Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/biblio-fields.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/eml.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/github-organization-recs.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/new-to-im.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/site-identifier.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/im/site-publications.html</loc>
-    <lastmod>2025-10-01T22:02:31.751Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.464Z</lastmod>
   </url>
   <url>
     <loc>https://lter.github.io/docs-network/index.html</loc>
-    <lastmod>2025-10-01T22:02:31.753Z</lastmod>
+    <lastmod>2025-10-01T22:22:23.466Z</lastmod>
   </url>
 </urlset>
