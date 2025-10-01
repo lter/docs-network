@@ -3,11 +3,11 @@ title: "Graduate Student Committee Home"
 format: html
 ---
 
-This part of the website is a place for members of the graduate student committee to refer to the latest LTER policy and practice updates.
+The graduate student committee is composed of one or more representatives from each LTER site who help to maintain a sense of community and connection among students at LTER sites. Grad Reps are servant-leaders who help communicate student issues and perspectives to faculty and staff and vice-versa. The information in this manual will help new graduate students representatives to get oriented to the role and expectations.
 
-## [Bylaws](bylaws.qmd)
-## [Graduate Student Representative Mission and Goals](mission_goals.qmd)
-## [Graduate Student Representative Orientation](orientation.qmd)
-## [Graduate Student Representative Duties](duties.qmd)
-## [Working Group Description](wg_description.qmd)
-## [Welcome Email](email.qmd)
+*  ### [Graduate Student Representative Mission and Goals](mission_goals.qmd)
+*  ### [Graduate Student Representative Orientation](orientation.qmd)
+*  ### [Graduate Student Representative Duties](duties.qmd)
+*  ### [Working Group Description](wg_description.qmd)
+*  ### [Welcome Email](email.qmd)
+*  ### [Bylaws](bylaws.qmd)
