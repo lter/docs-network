@@ -42,19 +42,19 @@ The value of the network can be seen in two major ways. As a community-of-practi
 
 ## Research Experience for Undergraduates
 
- *Under construction*.
+{{< fa person-digging >}}  *Under construction*.
 
 ## Research Experience for Teachers
 
-<i class="fa-solid fa-person-digging"></i> *Under construction*.
+{{< fa person-digging >}}  *Under construction*.
 
 ## The Postcard Project
 
-<i class="fa-solid fa-person-digging"></i> *Under construction*.
+{{< fa person-digging >}}  *Under construction*.
 
 ## Data Nuggets
 
-<i class="fa-solid fa-person-digging"></i> *Under construction*.
+{{< fa person-digging >}}  *Under construction*.
 
 
 
