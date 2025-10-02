@@ -3,8 +3,25 @@ title: "Education & Outreach Committee (EOC) Home"
 format: html
 ---
 
-This part of the website is a place for members of the education & outreach committee to refer to the latest LTER policy and practice updates.
+LTER recognizes the value of sustained interactions between students, teachers, and scientists, and strives to integrate LTER science with K-12 education. Most LTER sites conduct individual programs at the local level, and the network supports centralized approaches to educational initiatives where possible.
 
-## *Under Construction!*
+Committee membership is identified by sites (at least 1 representative per site). Meetings are scheduled monthly and attendance is voluntary and dependent on individual members’ schedules and availability.
 
-Check back later
+## Education/Outreach goals include:
+- Utilizing LTER resources to enhance hands-on science learning for students
+- Developing long-term research sites on or near school yards
+- Facilitating communication between LTER scientists, formal and informal science educators, and school teachers
+- Helping ecology education make best use of long-term studies
+- Fostering understanding of the Earth’s ecosystems, including local ones
+- Promoting outdoor, inquiry-based learning
+- Stimulating interdisciplinary, collaborative science learning
+- Integrating long-term and multi-factorial studies into education reform
+- Promoting broad understanding of long-term ecological processes and the earth’s ecosystem
+
+## Schedule and Organization
+
+- The committee meets the first Thursday of each month at noon Pacific Time (1:00 MT / 2:00 CT / 3:00 ET). Committee members generally receive a calendar invitation via their google group membership. If you do not have a meeting invitation or need to access the meeting URL, it can be found in the latest running notes document in the [shared google drive](https://drive.google.com/drive/u/0/folders/0AHiFZma83lhlUk9PVA).
+- **Email list**: Outside of meetings, communication takes place on the google group email discussion list (education@lternet.edu). All members can (and should) feel free to post questions, resources, events, etc. If you would like to request access from an email that is not your work address, request to add that email from [the group's "About" page](https://groups.google.com/a/lternet.edu/g/education/about).
+- **Shared Drive**: Active files are stored on the [LTER-committee-education](https://drive.google.com/drive/u/0/folders/0AHiFZma83lhlUk9PVA) shared google drive. All members in the google group have edit access to the shared drive. Unlike individual google drives, shared drives allow editors to delete or change content for all members. This makes it easier to keep the drive organized, but required some caution.
+-  **Web Page**: The Committee has [a page](https://lternet.edu/committees/education/) on the network web site. Keeping content updated is a shared responsibility between the committee and the Network Office. Only the Network Office has edit access to the website, but fresh content from the committee is always appreciated.
+
