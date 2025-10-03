@@ -66,6 +66,12 @@ website:
         menu: 
           - text: "Home"
             href: grad/home.qmd
+      - text: "Chairs"
+        menu: 
+          - text: "Home"
+            href: committee-chairs/home.qmd
+          - text: "Annual Report Template"
+            href: committee-chairs/annual-report-template.qmd
     right: 
       - text: "Editing This Site"
         href: general/edits.qmd

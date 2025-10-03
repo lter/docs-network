@@ -24,3 +24,7 @@ LTER recognizes the value of sustained interactions between students, teachers, 
 ### [Graduate Student Committee](grad/home.qmd)
 
 {{< fa person-digging >}}  _Under construction, check back later._
+
+### [Committee Chairs](committee-chairs/home.qmd)
+
+LTER committees and interest groups are run by volunteer members of the network, with logistical and (occasional) financial support from the LTER Network Office. Each committee operates a little differently to accommodate the needs and interest of members, but there are a few common activities and responsibilities that we lay out here.
