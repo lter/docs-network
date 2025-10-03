@@ -12,29 +12,29 @@ title: "Annual Report Template  (2024-2025)"
 
 <hr>
 
-#### Name of committee: 
+### Name of committee: 
 
-#### Date of report: 
+### Date of report: 
 
-#### Name and site affiliation of the committee chair(s): 
+### Name and site affiliation of the committee chair(s): 
 
-#### List of current members: 
+### List of current members: 
 
-#### How membership is determined:
+### How membership is determined:
 
 *(identified by sites, voluntary, appointed by the Executive Board, etc.)*
 
-#### Meeting frequency:
+### Meeting frequency:
 
-#### Major activities or accomplishments for the past year:
+### Major activities or accomplishments for the past year:
 
-#### Currently active subcommittees or working groups:
+### Currently active subcommittees or working groups:
 
-#### Planned activities for the coming year:
+### Planned activities for the coming year:
 
-#### Recent changes in leadership, purpose, or process:
+### Recent changes in leadership, purpose, or process:
 
-#### Questions and suggestions:
+### Questions and suggestions:
 
 *Do you have specific questions, problems, or proposals for the LTER Science Council? Are there actions that PIs or the LNO could take to improve the quality or quantity of research, education, engagement, or inclusion in the LTER Network?*
 
