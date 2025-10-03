@@ -1,7 +1,40 @@
 ---
-title: "Annual Report Template"
+title: "Annual Report Template  (2024-2025)"
 ---
 
-## {{< fa person-digging >}}  *Under construction*
+*Reporting on activities from May 2024-September 2025*
 
-Check back later
+**Purpose:** The annual committee report informs the Executive Board and the PIs on committee activities and provides content for the committee’s webpage. 
+
+**Presentation:** In 2025, committee reports will take place at a dedicated Lead PI Meeting on November 18, 2025, scheduled for 10-11:30 am PT. The executive board representative and/or committee chair(s) will have about 10 minutes to present and an additional 5 minutes for questions/discussion. The presentation may take whatever format you choose to communicate the committee's goals, activities, and concerns. Questions, issues or proposals that generate significant discussion at the meeting may become the focus of deeper discussion at Executive Board or Lead PI Meetings throughout the coming year.
+
+**To submit:** Copy this template or the **[identical Googledoc](https://docs.google.com/document/d/1FbwmU6vZM7G2PdvtLyeMD6aOpwTFvgEyQH1bodIAq6I/copy)** to a new file. Complete the questions and email Marty (downs@nceas.ucsb.edu) a link to the completed document by **November 3, 2025**.
+
+<hr>
+
+#### Name of committee: 
+
+#### Date of report: 
+
+#### Name and site affiliation of the committee chair(s): 
+
+#### List of current members: 
+
+#### How membership is determined:
+
+*(identified by sites, voluntary, appointed by the Executive Board, etc.)*
+
+#### Meeting frequency:
+
+#### Major activities or accomplishments for the past year:
+
+#### Currently active subcommittees or working groups:
+
+#### Planned activities for the coming year:
+
+#### Recent changes in leadership, purpose, or process:
+
+#### Questions and suggestions:
+
+*Do you have specific questions, problems, or proposals for the LTER Science Council? Are there actions that PIs or the LNO could take to improve the quality or quantity of research, education, engagement, or inclusion in the LTER Network?*
+
