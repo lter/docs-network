@@ -10,6 +10,7 @@ Updates from the prior version will be listed here as they are made. A version n
     - Added a section clarifying utility of organization over making a user account for the site
     - Added a section recommending a 'table of contents' repository to help visitors navigate the organization
 - Education: Added page skeletons for likely documentation topics
+- Chairs: Added page skeletons and initial content for likely documentation topics
 
 ## Version 1.0
 
