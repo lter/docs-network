@@ -11,7 +11,7 @@ Every LTER site has an "information manager". These staff members are responsibl
 
 ### [Principal Investigators](pi/home.qmd) (PI)
 
-_Under Construction! Check back later_
+{{< fa person-digging >}}  _Under construction, check back later._
 
 ### [Education & Outreach Committee](edu/home.qmd) (EOC)
 
@@ -19,8 +19,8 @@ LTER recognizes the value of sustained interactions between students, teachers, 
 
 ### [Broadening Participation Committee](broaden_particip/home.qmd)
 
-_Under Construction! Check back later_
+{{< fa person-digging >}}  _Under construction, check back later._
 
 ### [Graduate Student Committee](grad/home.qmd)
 
-_Under Construction! Check back later_
+{{< fa person-digging >}}  _Under construction, check back later._

@@ -5,6 +5,6 @@ format: html
 
 This part of the website is a place for members of the broadening participation committee to refer to the latest LTER policy and practice updates.
 
-## *Under Construction!*
+## {{< fa person-digging >}}  *Under construction*
 
 Check back later

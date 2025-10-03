@@ -2,6 +2,6 @@
 title: "EOC Bylaws and Meeting Guidance"
 ---
 
-## *Under Construction!*
+## {{< fa person-digging >}}  *Under construction*
 
 Check back later

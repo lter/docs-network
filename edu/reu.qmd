@@ -2,4 +2,4 @@
 title: "Research Experiences for Undergraduates (REUs)"
 ---
 
-## {{< fa person-digging >}}  *Under construction*.
+## {{< fa person-digging >}}  *Under construction*
