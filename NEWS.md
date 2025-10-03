@@ -9,8 +9,9 @@ Updates from the prior version will be listed here as they are made. A version n
     - Streamlined existing text based on IM feedback
     - Added a section clarifying utility of organization over making a user account for the site
     - Added a section recommending a 'table of contents' repository to help visitors navigate the organization
-- Education: Added page skeletons for likely documentation topics
-- Chairs: Added page skeletons and initial content for likely documentation topics
+- Education: Added content into separate pages (plus page skeletons) by topic and noted high-level committee purpose on website home
+- Chairs: Added content into separate pages (plus page skeletons) by topic and noted high-level committee purpose on website home
+- Grad: Added content into separate pages by topic and noted high-level committee purpose on website home
 
 ## Version 1.0
 
