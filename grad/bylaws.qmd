@@ -1,4 +1,6 @@
-# LTER Graduate Student Committee By-laws
+---
+title: "Graduate Student Committee Bylaws"
+---
 
 *Updated May 2024*
 
@@ -6,36 +8,34 @@
 
 The Graduate Student Committee respectfully acknowledges that the LTER Network Office sits on the land of the Chumash People. We also acknowledge that the LTER Network spans the lands of numerous tribes, and we encourage our members to recognize and engage with this information to learn about the continuous importance of both the land and water of Indigenous Peoples across time at their sites.
 
-## Bylaws
-
-### **Overview** 
+## Overview
 
 The LTER Graduate Student Committee (GSC) is an LTER network-wide standing committee as described in the LTER Bylaws Article VII, Section II (Revision 5.1, May 26, 2017). The GSC is a forum where graduate students from across the LTER sites work collectively to advance network-wide graduate student initiatives.
 
-### Purpose 
+## Purpose 
 
 The LTER GSC provides leadership and coordination to support graduate student collaboration, funding, and inclusion by fostering graduate student networks within and between LTER sites. Graduate student representatives first and foremost act as the voice for other graduate students at their sites, and give graduate students at their sites the information, opportunities, and representation necessary to work successfully at each site. The GSC connects graduate students with the LTER Network Office (LNO) through sharing LNO news and updates at the site level. The GSC also strives to connect graduate students within sites, with site PIs/coordinators, and between LTER sites by organizing network-wide events to promote collaboration, professional development, research skills, etc. Furthermore, the GSC maintains conversation and collaboration with the Executive Board, BP Committee, and IM Committee. Within the GSC there are working groups, which currently include the Community working group (works on producing and revising GSC documents), Events and Initiatives working group (works on setting up network-wide events geared towards graduate students), and Social Media working group (works on outreach to the general public through the LTER Instagram and SSALTER blog). Overall, the GSC acts as a voice for LTER graduate students to promote graduate student success across the network.
 
-### Membership 
+## Membership 
 
-Membership includes one or two graduate representatives from each site who participate in a monthly committee-wide video conference. All graduate students at LTER sites are welcome to attend and participate in the LTER GSC monthly meetings, but non-representatives do not participate in GSC-wide votes.\
-\
+Membership includes one or two graduate representatives from each site who participate in a monthly committee-wide video conference. All graduate students at LTER sites are welcome to attend and participate in the LTER GSC monthly meetings, but non-representatives do not participate in GSC-wide votes.
+
 Graduate student representatives will serve a term of no more than 2 years and will find a replacement halfway through their second year. Term length may be shorter (no more than 1 year) for master’s students. Representatives will try, to the best of their ability, to find a replacement to start either in January or September depending on site field season. The process by which succeeding site representatives will be chosen is determined by each site. A period of one month minimum overlap is required between site representatives to facilitate continuity. Sites are responsible for submitting updated graduate representative contact info to the committee chairs each year. Graduate student representatives leaving their role are responsible for making sure their successor is invited to the Slack and Google Drive communication channels.
 
-### Voting 
+## Voting 
 
-Elections and other committee-wide votes may occur in person at the triennial All Scientists’ Meeting or electronically through an online poll. Co-chair positions (always voted on, even if just confirmatory), committee representative positions (voted on if multiple people want the role), and documentation pertaining to the entire GSC such as the graduate student representative mission statement and goals, graduate student representative duties and GSC by-laws (this document) must be voted on. Documentation pertaining to the entire GSC will be revised by the Community working group and then sent out for a vote as detailed below.\
-\
+Elections and other committee-wide votes may occur in person at the triennial All Scientists’ Meeting or electronically through an online poll. Co-chair positions (always voted on, even if just confirmatory), committee representative positions (voted on if multiple people want the role), and documentation pertaining to the entire GSC such as the graduate student representative mission statement and goals, graduate student representative duties and GSC by-laws (this document) must be voted on. Documentation pertaining to the entire GSC will be revised by the Community working group and then sent out for a vote as detailed below.
+
 In all cases, each site is entitled to a single vote, to be cast by the site representative or proxy. At least two-thirds of all sites must participate to constitute a quorum. For electronic votes, at least two thirds of all sites must cast a vote directly, by proxy, or via email to constitute a quorum. Voting outcomes are decided by majority vote (more than half). A runoff vote is necessary when a majority vote is not achieved. Votes held via an online poll will be open for a period of 7 days with a reminder 1 day before closing.
 
-### Leadership 
+## Leadership 
 
-**Co-chairs** Two site representatives will preside as LTER Graduate Representative Committee co-chairs. The term of the co-chair is two years. The terms of the co-chairs will be offset by one year for continuity. A new co-chair will be elected each year, with nominations in October, elections in November, one overlap meeting in December with the new and old co-chair, and the term officially beginning in January.\
-\
-Co-chairs supervise and coordinate the governance and communication of the GSC. They ensure communication occurs among GSC members as well as between the GSC and LTER boards, committees, and partners. The co-chairs will coordinate the communication of outcomes from graduate committee activities and events to the LNO and the GSC as necessary.\
-\
-**Executive and BP Committee Representatives.** One graduate student representative will attend the LTER Executive Board meetings and another graduate student representative will attend the BP Committee meetings. The GSC rep sitting in on these meetings will attend them for 1 year before another grad rep is rotated into the role.\
-\
+**Co-chairs** Two site representatives will preside as LTER Graduate Representative Committee co-chairs. The term of the co-chair is two years. The terms of the co-chairs will be offset by one year for continuity. A new co-chair will be elected each year, with nominations in October, elections in November, one overlap meeting in December with the new and old co-chair, and the term officially beginning in January.
+
+Co-chairs supervise and coordinate the governance and communication of the GSC. They ensure communication occurs among GSC members as well as between the GSC and LTER boards, committees, and partners. The co-chairs will coordinate the communication of outcomes from graduate committee activities and events to the LNO and the GSC as necessary.
+
+**Executive and BP Committee Representatives.** One graduate student representative will attend the LTER Executive Board meetings and another graduate student representative will attend the BP Committee meetings. The GSC rep sitting in on these meetings will attend them for 1 year before another grad rep is rotated into the role.
+
 The expectation is that the GSC representative sitting in on the Executive Board and BP Committee meetings will:
 
 -   Attend all of the Executive Board/BP Committee meetings (1x month)
@@ -44,11 +44,10 @@ The expectation is that the GSC representative sitting in on the Executive Board
     -   Give a brief verbal summary at the start of each GSC meeting during updates
 -   Add agenda items to the Executive Board/BP Committee as needed, determined by the GSC as a whole.
 
-### Budget and Expenses 
+## Budget and Expenses 
 
 Funds can be requested from the LTER Network Office to support GSC activities and proposals. When funds are available, they will be used to support current LTER priorities such as synthesis activities and DEIJ initiatives. To access funds, site representatives must submit a proposal describing their proposed activities and budget to the LTER Network Office.
 
-### Diversity and Inclusion Statement 
+## Diversity and Inclusion Statement 
 
 The LTER GSC is committed to fostering an environment that values diversity, multiculturalism, inclusion, and equity. The GSC will actively engage with the LTER community to embrace diversity and inclusion as part of our core values to develop a strong community network. The GSC strives to create a welcoming and inclusive environment by giving everyone the opportunity to contribute, including students from sites that are not graduate representatives. We will not tolerate microaggressions or actions that discriminate against marginalized communities (such as hate speech, misgendering, etc.). We are committed to making meetings and events accessible to all.
-

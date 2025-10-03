@@ -66,6 +66,10 @@ website:
         menu: 
           - text: "Home"
             href: grad/home.qmd
+          - text: "Duties"
+            href: grad/duties.qmd
+          - text: "Bylaws"
+            href: grad/bylaws.qmd
       - text: "Chairs"
         menu: 
           - text: "Home"

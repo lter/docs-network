@@ -21,9 +21,9 @@ LTER recognizes the value of sustained interactions between students, teachers, 
 
 {{< fa person-digging >}}  _Under construction, check back later._
 
-### [Graduate Student Committee](grad/home.qmd)
+### [Graduate Student Committee](grad/home.qmd) (GSC)
 
-{{< fa person-digging >}}  _Under construction, check back later._
+The graduate student committee is composed of one or more representatives from each LTER site who help to maintain a sense of community and connection among students at LTER sites. Grad Reps are servant-leaders who help communicate student issues and perspectives to faculty and staff and vice-versa. The information in these documents will help new graduate student representatives to get oriented to the role and expectations.
 
 ### [Committee Chairs](committee-chairs/home.qmd)
 
