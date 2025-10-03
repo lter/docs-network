@@ -46,6 +46,14 @@ website:
             href: edu/home.qmd
           - text: "Activities"
             href: edu/activities.qmd
+          - text: "REUs"
+            href: edu/reu.qmd
+          - text: "RETs"
+            href: edu/ret.qmd
+          - text: "Postcard Project"
+            href: edu/postcard-project.qmd
+          - text: "Data Nuggets"
+            href: edu/data-nuggets.qmd
           - text: "Bylaws"
             href: edu/bylaws.qmd
           - text: "Resources"
