@@ -1,0 +1,23 @@
+---
+title: "Responsibilities of Committee Chairs"
+format: html
+---
+
+LTER committees and interest groups are run by volunteer members of the network, with logistical and (occasional) financial support from the LTER Network Office. Each committee operates a little differently to accommodate the needs and interest of members, but there are a few common activities and responsibilities that we lay out here.
+
+- Typically, a co-chair structure allows two chairs to backstop each other. Some particularly active committees also have an executive team to share the load.
+- Prospective chairs should familiarize themselves with the [LTER Bylaws](https://lternet.edu/wp-content/uploads/2017/05/Bylaws-revision-5_26May2017.pdf) and the Bylaws or Standard Operating Procedures of their committee. 
+- Membership. "Representative" committees include at least one individual from each site and each site has one vote in decision-making. Ad hoc committees and interest groups have more flexible approaches to membership and some may only communicate through email lists.
+  - **Representative Committees**: Lead PIs, Information Management, Education and Outreach, Broadening Participation, Graduate Student Reprtesentatives
+  - **Ad hoc Committees**: International, Art-Science, Site Coordinators, REU Coordinators
+  - To request a new ad hoc committee or interest group, simply email the LTER Network Office with an explanantion of its purpose and membership.
+
+## Representative Committees
+- **Email lists**. The LTER uses Google Groups in the lternet.edu workspace to maintain email lists, calendar invitations, and access to shared drives. Committee Chairs can be designated as Google Group "managers" allowing them to add new members to their google groups, but generally chairs and the LNO work together to keep the lists updated.
+- **Regular Meetings**. Most committees choose to meet monthly. 
+  - The chair(s) poll the membership for meeting times, set meeting agendas, send out meeting reminders, facilitate the meetings, and ensure that notes are taken.
+  - LNO sets up a virtual meeting link and a calendar invitation.
+  - The LNO attends meetings as often as possible and provides an update on LNO activities. 
+  - When desired, the LNO also records meetings and makes them available to committee membership on the shared drive.
+- **Executive Board Representative**. Each representative committee is expected to elect a representative to the LTER Executive Board(EB) to maintain communication between committees and the EB. The chairs and the LNO work together to recruit candidate(s) who is elected by vote of the committee membership. The EB Rep attends Executive Board Meetings and provides an update to the committee at their next meeting.
+- **Annual Reports**. A few months ahead of each annual PI/Science Council Meeting, the LNO will prompt Committee Chairs to complete an annual report based on [a standard format](annual-report-template.qmd). The annual reposrts form the basis of of committee presentations to the PI business meeting. The Committee Chairs should coordinate input to the annual report from committee members.
