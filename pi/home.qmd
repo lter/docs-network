@@ -3,8 +3,109 @@ title: "Principal Investigator Home"
 format: html
 ---
 
-This part of the website is a place for new and experienced LTER principal investigators (PIs) to refer to the latest LTER policy and practice updates.
+This part of the website is a place for new and experienced LTER principal investigators (PIs) to get up to speed on the pros, cons, and relevant context of LTER site management approaches.
 
-## {{< fa person-digging >}}  *Under construction*
+## Draft Outline
 
-Check back later
+Draft Outline – LTER PI handbook
+{{< fa person-digging >}}  *Under construction as of October 13, 2025*
+
+## Welcome
+
+AKA: omg what have you gotten yourself into?
+
+## Background
+
+- Founding (links to 1978 and 1979 workshops), including original core areas
+- Expansion (site timeline)
+- Major products and initiatives (EcoTrends, Decade of synthesis, cross-site experiments, distributed experiments)
+- Major leadership transitions
+
+## LTER Structure
+- Science Council
+- Executive Board
+- Committees and their roles and relationships
+- Bylaws
+- Division of responsibility between LNO/EB/NSF
+  - How the LNO can support sites
+  - Centralized communication
+  - Committee support
+  - Synthesis
+  - Training
+  - Templates and onboarding
+- Information sites should be providing to the LNO
+  - Successful proposals (on award) - with Cover page, Data Management Plan, Site Management Plan, SAIF Plan, and Broadening Participation plan, but without detailed budget.
+  - Publications (at least annually)
+  - Personnel (preferably several times a year, but at least annually)
+
+## Regular meetings
+ - Annual Science Council Meeting
+  - Triennial All Scientists Meetings
+  - Site’s All Hands Meetings
+
+## Review and renewal cycle
+  - Typical timeline
+  - Proposals
+    - Where to access past proposals
+    - Ideas for inclusive proposal development processes
+    - Proposal development: Dos and don’ts, successful conceptual framework
+  - Reviews
+    - Sample schedules, material packets
+    - General dos, don’ts and cautions for reviews 
+    - Advice on virtual reviews 
+
+## General Site Administration
+- This is hard. Don’t hesitate to ask for advice.
+  - Lead PI Meeting at Science Council
+  - Lead PI email list
+
+- Starting from scratch - Issues requiring special consideration for brand new sites (recently: MSP, NES, BLE, NGA) 
+  - Websites
+  - Press releases
+  - Mailing lists
+  - Explaining what LTER is to your institution
+  - Bylaws/Best Practices/Handbooks
+- Leadership transitions - Issues for consideration when serving as a new leader of an existing site (recently: SEV, KNZ, NWT, KBS, FCE)
+  - Establishing your own leadership approach
+  - Communicating changes (to participants, university leadership, “friends of…”)
+  - Dedicated field site/station (ARC, KBS, AND, MCR, CDR…) v. distributed research locations (MSP, CAP, …)
+  - One or a few institutions (KBS, FCE, JRN…) v. highly distributed among institutions (ARC, MCM,  PAL, GCE..)
+
+### Leadership: 
+- Co-lead PIs (CDR, GCE, MCR, BLE…)
+- Project management support (HFR, LUQ, MCR, SBC, NES…)
+- A designated project manager or research manager assists with tracking research activities, communications, scheduling, events, etc
+- Going it alone (Everyone else?)
+
+### Internal Management structure
+- Internal Executive Committee (FCE. …)
+- Executive/Management Committees
+  - Who’s invited? 
+  - How often do they meet?
+  - What kinds of issues do they tackle
+  - Staff support?
+- External Advisory Boards (who has these? FCE, VCR, …)
+  - Who and how often?
+  - What kinds of questions do they offer advice on? How do you convene or request feedback?
+  - How managed?
+- Models for divvying up funding (plusses and minuses)
+  - Grad students only (??)
+  - Project-based (??)
+  - Planned and predictable every year (??)
+- Models for bringing in funding
+  - Gift solicitation and management
+  - Relationships with University administrators and development offices
+  - Interaction with LTER-related  leveraged funding
+  - Related research foundation/"Friends-of" organization
+  
+### Site Science & Communications 
+
+-  Listservs, newsletters, brown bag meetings, workshops, annual meetings
+-  Engagement of PIs, postdocs, graduate and undergraduate students
+-  Team and open science models
+-  Working group structures
+
+## Where to find additional information
+
+## How to suggest updates/new content
+
