@@ -70,6 +70,15 @@ AKA: omg what have you gotten yourself into?
   - Communicating changes (to participants, university leadership, “friends of…”)
   - Dedicated field site/station (ARC, KBS, AND, MCR, CDR…) v. distributed research locations (MSP, CAP, …)
   - One or a few institutions (KBS, FCE, JRN…) v. highly distributed among institutions (ARC, MCM,  PAL, GCE..)
+- Working with the Network Office
+  - How the LNO can help
+  - How the LNO cannpt help
+  - What information the LNO needs
+    - Renewals
+    - Publications. The LNO maintains a list of LTER award numbers and only publications that cite specific award numbers in the funding/acknowledgement sections get picked up. Please strongly encourage your researchers to include grant numbers. As an example, this great publication, based on 60 years of data from Hubbard Brook, (Forest recovery after deforestation is fueled by mineral weathering at the expense of ecosystem buffering capacity)[https://doi.org/10.1073/pnas.2419123122], only refers to "numerous NSF Long Term Ecological Research (LTER) and Long Term Research in Environmental Biology (LTREB) grants" and so does not show up in a grant number search.
+
+    - Personnel
+
 
 ### Leadership: 
 - Co-lead PIs (CDR, GCE, MCR, BLE…)
