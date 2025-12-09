@@ -4,4 +4,17 @@ title: "EOC Resources"
 
 ## *Under Construction!*
 
-Check back later
+## Finding Education Funding
+
+### Federal
+-  [NSF STEM Education Program](https://www.nsf.gov/funding/opportunities/stem-k-12-nsf-stem-k-12)
+-  NSF Supplements and workshop proposals
+Typically, the process would be to submit a concept note - a one-two page description of what the research question would be and what the demand/use for it is along with who would be involved and a budget number. Then a program officer either declines it, asks for more information, or (sometimes) just goes ahead and funds it. Generally, they'd rather fund something like that as a supplement to an existing grant because the admin cost of accepting and funding a new small grant can be almost as big as the grant itself. 
+-  The [Department of Education](https://www.ed.gov/grants-and-programs/apply-grant/available-grants) used to support some research, but they are now just a shell of their former selves.
+
+### Private 
+There are some foundations that support education-related funding
+
+[Philanthropy News Digest](https://philanthropynewsdigest.org/rfps) has a basic search capability for RFPs and will let you set up email alerts. They also have a much more extensive (and expensive) option, but if you're looking to respond to a specific RFP rather than build a relationship with a foundation, then the free version is fine. If you're interested in exploring the expensive option, they do allow [free in-person access](https://learning.candid.org/free-access-to-foundation-directory/273922) at some partner locations.
+
+[Pivot](https://proquest.libguides.com/pivot) is another database of funding sources that you probably have access to through your university (it's a Clarivate product).
