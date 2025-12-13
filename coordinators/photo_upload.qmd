@@ -76,13 +76,10 @@ LTER Network Office
 ###  Apple Photos {#apple}
 
 1.  *Add all the photos you want to upload to Apple photos.* They can be dragged and dropped into the app, or uploaded via File > Import
-1.  *Create a caption for each photo.* First, click the “i” logo in the top right corner near the search bar.
-<img src="../images/coordinators-create-caption-1.png" alt="screenshot with information button identified" width="25%" align="left">
-  -  In the window that appears, fill out the **Add a title** and **Add a description** fields. These are automatically recognized by SmugMug. 
-<img src="../images/coordinators-add-title-description-2.png" alt="screenshot with title and description identified" width="25%" align="left">
+1.  *Create a caption for each photo.* First, click the “i” logo in the top right corner near the search bar. <img src="../images/coordinators-create-caption-1.png" alt="screenshot with information button identified" width="25%" align="right">
+  -  In the window that appears, fill out the **Add a title** and **Add a description** fields. These are automatically recognized by SmugMug. <img src="../images/coordinators-add-title-description-2.png" alt="screenshot with title and description identified" width="25%" align="right">
 1.  *Export photos with the new, updated descriptions.* Files MUST be re-exported to encode the information you just added into the file. Highlight all photos ready for upload then click File > Export > Export (1) Photo. Any standard photo format works, but be sure to select “Include Title, Keywords, and Description”.
-1.  *Upload photos to SmugMug following the instructions above.* The title and captions appear like the photo below.
-<img src="../images/coordinators-smugmug-3.png" alt="screenshot of SmugMug display" width="25%" align="left">
+1.  *Upload photos to SmugMug following the instructions above.* The title and captions appear like the photo below. <img src="../images/coordinators-smugmug-3.png" alt="screenshot of SmugMug display" width="25%" align="right">
 
 ###  Windows Photos {#windows}
 1.  Follow the instructions at [this link](https://www.windowscentral.com/how-edit-picture-metadata-windows-10) to edit each photo’s metadata.
@@ -90,8 +87,7 @@ LTER Network Office
 1.  Export photos and upload to smugmug.
 
 ###  Lightroom {#lightroom}
-1.  View photo metadata (instructions from Adobe’s help website):
-<img src="../images/coordinators-smugmug-4.pn" alt="ightroom instructions" width="25%" align="left">
+1.  View photo metadata (instructions from Adobe’s help website): <img src="../images/coordinators-smugmug-4.pn" alt="ightroom instructions" width="25%" align="right">
 1.  Then select "Quick describe"
 1.  Update Title and Caption fields.
 1.  Export photos with updated metadata.
