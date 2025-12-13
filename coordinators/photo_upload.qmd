@@ -22,9 +22,9 @@ The LTER Network Office encourages users to upload their own photos to each site
  
 1.  Update photo caption. Please add a short description of each photo before you upload them to smugmug. For instructions on updating captions, follow the links below: 
 
-  -  Apple Photos
-  -  Windows Photos
-  -  Lightroom
+  -  [Apple Photos](#apple)
+  -  [Windows Photos](#windows)
+  -  [Lightroom](#lightroom)
 
 1.  Please include a brief description of the location and activity in the caption. Also include the photographer’s name!
 1.  Follow link below to the gallery specific upload page.
@@ -75,25 +75,31 @@ LTER Network Office
 
 ##  Photo Caption Instructions
 
-###  Apple Photos
+###  Apple Photos {#apple}
 
 1.  *Add all the photos you want to upload to Apple photos.* They can be dragged and dropped into the app, or uploaded via File > Import
 1.  *Create a caption for each photo.* First, click the “i” logo in the top right corner near the search bar.
 
+[screenshot with information button identified](../images/coordinators-create-caption-1.png)
+
   -  In the window that appears, fill out the **Add a title** and **Add a description** fields. These are automatically recognized by SmugMug. 
+
+[screenshot with title and description identified](../images/coordinators-add-title-description-2.png)
 
 1.  *Export photos with the new, updated descriptions.* Files MUST be re-exported to encode the information you just added into the file. Highlight all photos ready for upload then click File > Export > Export (1) Photo. Any standard photo format works, but be sure to select “Include Title, Keywords, and Description”.
 1.  *Upload photos to SmugMug following the instructions above.* The title and captions appear like the photo below.
 
+[screenshot of SmugMug display](../images/coordinators-smugmug-3.png)
 
-###  Windows Photos
+###  Windows Photos {#windows}
 1.  Follow the instructions at [this link](https://www.windowscentral.com/how-edit-picture-metadata-windows-10) to edit each photo’s metadata.
 1.  Edit the Title and Description fields for the photos.
 1.  Export photos and upload to smugmug.
 
-###  Lightroom
+###  Lightroom {#lightroom}
 1.  View photo metadata (instructions from Adobe’s help website):
 
+[LIghtroom instructions](../images/coordinators-smugmug-4.png)
 
 1.  Then select:
 1.  Update Title and Caption fields.
