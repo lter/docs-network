@@ -91,7 +91,7 @@ LTER Network Office
 
 ###  Lightroom {#lightroom}
 1.  View photo metadata (instructions from Adobe’s help website): 
-<img src="../images/coordinators-smugmug-4.png" alt="adobe lightroom instructions" width="50%" align="left">
+<img src="../images/coordinators-smugmug-4.png" alt="adobe lightroom instructions" width="50%">
 1.  Then select "Quick describe"
 1.  Update Title and Caption fields.
 1.  Export photos with updated metadata.
