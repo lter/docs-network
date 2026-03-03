@@ -35,7 +35,7 @@ We recommend adopting a common organization naming convention across sites so th
 - Arctic (ARC) GitHub: [LTER-ARC](https://github.com/LTER-ARC)
 - Beaufort Lagoon Ecosystems (BLE) Github: [BLE-LTER](https://github.com/BLE-LTER)
 - Central Arizona-Phoenix (CAP) GitHub: [CAPLTER](https://github.com/CAPLTER) & GitLab: [gitlab.com/caplter](https://gitlab.com/caplter)
-- Florida Coastal Everglades (FCE) GitHub:[FCE-LTER](https://github.com/FCE-LTER)
+- Florida Coastal Everglades (FCE) GitHub: [FCE-LTER](https://github.com/FCE-LTER)
 - Georgia Coastal Ecosystems (GCE) GitHub: [GCE-LTER](https://github.com/GCE-LTER)
 - Hubbard Brook (HBR) GitHub: [HBR-LTER](https://github.com/HBR-LTER)
 - Jornada Basin (JRN) GitHub: [jornada-im](https://github.com/jornada-im)
