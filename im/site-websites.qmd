@@ -15,10 +15,10 @@ Exactly _how_ you go about creating or maintaining your site's website depends o
 
 ### Drupal and DEIMS
 
-[Drupal](https://www.drupal.org/) is an open-source content management system for building and maintaining websites. Several LTER sites use Drupal, and some of them joined forces to create DEIMS (the Drupal Ecological Information Management System, depending on whom you ask), a Drupal-based website solution which handles functionality common across LTER sites such as data catalog, bibliography, and personnel lists.
+[Drupal](https://www.drupal.org/) is an open-source content management system for building and maintaining websites. Several LTER sites use Drupal, and some of them joined forces to create DEIMS (the Drupal Ecological Information Management System), a Drupal-based website solution which handles functionality common across LTER sites such as data catalog, bibliography, and personnel lists.
 
 DEIMS was developed in Drupal 7 and upgrade instructions to Drupal 8/9 can be found in a [GitHub repository](https://github.com/lter/Deims7-8-Migration). Drupal manages information in a database, and modules have been developed to import and export ecological metadata language (EML) documents.
-Developing a new website in Drupal is more complex than, e.g., WordPress, but offers more opportunities for customization. However, IM supporting developments at EDI and the IMC have been replacing most functionality Drupal has been lauded for. If you already use DEIMS or are familiar with Drupal reach out to the IMs at these sites to learn more: [NTL](https://lter.limnology.wisc.edu/), [KNZ](http://knz.lternet.edu/), [PIE](https://pie-lter.ecosystems.mbl.edu/).
+Developing a new website in Drupal is more complex than, e.g., WordPress, but offers more opportunities for customization. However, IM-supporting developments at EDI and the IMC have been replacing most functionality Drupal has been lauded for. If you already use DEIMS or are familiar with Drupal reach out to the IMs at these sites to learn more: [NTL](https://lter.limnology.wisc.edu/), [KNZ](http://knz.lternet.edu/), [PIE](https://pie-lter.ecosystems.mbl.edu/).
 
 ### WordPress
 
@@ -36,3 +36,12 @@ For a relatively new paid option with simpler sites, you may be interested in [D
 
 In other words, you can describe your project on your own portal page, and you can have a complete data catalog as long as all of your datasets are discoverable within DataONE.
 If you need other fancy features though, you may need to look elsewhere.
+
+### RSS Feeds from the Network Office
+RSS feeds from the Network Office can provide an easy source of updated content and also help keep your site personnel up-to-date on network happenings. Both Drupal and Wordpress have quick and easy ways to display an rss feed. If you're not familiar, reach out to the Network Office. 
+-  Announcements: https://lternet.edu/story_types/announcement/feedThis includes new Network-level programs (site exchanges, synthesis RFPs, etc.), as well as occasional announcements about LTER-relevant programs from partner networks and individual sites that are available broadly.
+-  Featured Events: https://lternet.edu/events/tags/featured/feed/This includes our monthly LTER community calls (March and April will focus on progress in our currently-funded synthesis groups) as well as other committee-organized events such as the grad-organized lightning talks.  
+-  News Stories: https://lternet.edu/stories/feed/ 
+(for all stories) or there are variations for specific story-types: https://lternet.edu/story_types/education/feed or   https://lternet.edu/story_types/research/feed
+
+In addition to the featured events rss feed noted above, individuals subscribe to the full calendar feed at https://lternet.edu/events.ics. Instructions for google calendar users [are here](https://wp-events-plugin.com/documentation/event-ical-feeds/#example-subscribing-to-events-using-google-calendar). 
