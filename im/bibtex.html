@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Bibtex – LTER Network Documentation</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -33,19 +39,18 @@ ul.task-list li input[type="checkbox"] {
 <link href="../images/logo_lter.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-df3ab8fec12a662d4de53b13d163e066.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-e0f7fd9e901a483e5fa113e7fc30cc56.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-df3ab8fec12a662d4de53b13d163e066.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-b2fc0bf4ee85cd6ea7c1bad0e7286d3d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-e018836b2e4ad081961653bfd3de459c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-b2fc0bf4ee85cd6ea7c1bad0e7286d3d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -424,6 +429,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#exporting-bibtex-files-for-importing-to-the-network-bibliography" id="toc-exporting-bibtex-files-for-importing-to-the-network-bibliography" class="nav-link active" data-scroll-target="#exporting-bibtex-files-for-importing-to-the-network-bibliography">Exporting Bibtex files for importing to the Network bibliography</a></li>
   <li><a href="#identifying-lter-site" id="toc-identifying-lter-site" class="nav-link" data-scroll-target="#identifying-lter-site">Identifying LTER Site</a></li>
+  <li><a href="#item-types-and-required-fields" id="toc-item-types-and-required-fields" class="nav-link" data-scroll-target="#item-types-and-required-fields">Item types and required fields</a>
+  <ul class="collapse">
+  <li><a href="#additional-standard-bibtex-entry-types-that-are-acceptable-for-the-lter-network-bibliography" id="toc-additional-standard-bibtex-entry-types-that-are-acceptable-for-the-lter-network-bibliography" class="nav-link" data-scroll-target="#additional-standard-bibtex-entry-types-that-are-acceptable-for-the-lter-network-bibliography">Additional standard BibTex entry types that are acceptable for the LTER Network bibliography</a></li>
+  <li><a href="#sources" id="toc-sources" class="nav-link" data-scroll-target="#sources">Sources</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/lter/docs-network/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -457,13 +467,84 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="identifying-lter-site" class="level2">
 <h2 class="anchored" data-anchor-id="identifying-lter-site">Identifying LTER Site</h2>
-<p>Please use the linked entry-types and fields when exporting your BibTex file. In addition to the required fields listed below under each entry type, please ensure that your export includes a keyword identifying your LTER site and one or both of two standard fields for linking to the product:</p>
+<p>Please use the entry-types and fields below when exporting your BibTex file. In addition to the required fields listed below under each entry type, please ensure that your export includes a keyword identifying your LTER site and one or both of two standard fields for linking to the product:</p>
 <ul>
 <li>LTER site keyword format (or tag in Zotero): LTER-XXX, where XXX=your three-letter site acronym</li>
 <li>DOI (if available) or URL (if available)</li>
 </ul>
+</section>
+<section id="item-types-and-required-fields" class="level2">
+<h2 class="anchored" data-anchor-id="item-types-and-required-fields">Item types and required fields</h2>
+<p>NSF uses a fairly narrow set of entry types for annual report and public access repository reporting. In general, it makes sense to align the LTER publication database with those types, but we are allowing a few additional types to accommodate technical reports, gray literature, and a miscellaneous type to accommodate awkward and unanticipated modes of publication, such as maps and software packages. The required fields for each entry type are the same as NSF’s and are listed below the entry type.</p>
+<ul>
+<li>article - An article from a journal or magazine.
+<ul>
+<li>Required fields: author, title, journal, year</li>
+<li>Optional fields: volume, number, pages, month, note</li>
+</ul></li>
+<li>book - A book with an explicit publisher
+<ul>
+<li>Required fields: author or editor, title, publisher, year</li>
+<li>Optional fields: volume or number, series, address, edition, month, note</li>
+</ul></li>
+<li>booklet- A work that is printed and bound, but without a named publisher or sponsoring institution.
+<ul>
+<li>Required field: title</li>
+<li>Optional fields: author, howpublished, address, month, year, note</li>
+</ul></li>
+<li>inbook - A part of a book, which may be a chapter (or section or whatever) and/or a range of pages.
+<ul>
+<li>Required fields: author or editor, title, chapter and/or pages, publisher, year</li>
+<li>Optional fields: volume or number, series, type, address, edition, month, note</li>
+</ul></li>
+<li>incollection - A part of a book having its own title
+<ul>
+<li>Required fields: author, title, booktitle, publisher, year</li>
+<li>Optional fields: editor, volume or number, series, type, chapter, pages, address, edition, month, note</li>
+</ul></li>
+<li>mastersthesis or phdthesis - master’s or doctoral thesis
+<ul>
+<li>Required fields: author, title, school, year, type (masters, doctoral)</li>
+<li>Optional fields: address, month, note</li>
+</ul></li>
+<li>proceedings - The proceedings of a conference
+<ul>
+<li>Required fields: title, year</li>
+<li>Optional fields: editor, volume or number, series, address, month, organization, publisher, note</li>
+</ul></li>
+<li>inproceedings - An article in a conference proceedings
+<ul>
+<li>Required fields: author, title, booktitle, year</li>
+<li>Optional fields: editor, volume or number, series, pages, address, month, organization, publisher, note</li>
+</ul></li>
+</ul>
+<section id="additional-standard-bibtex-entry-types-that-are-acceptable-for-the-lter-network-bibliography" class="level3">
+<h3 class="anchored" data-anchor-id="additional-standard-bibtex-entry-types-that-are-acceptable-for-the-lter-network-bibliography">Additional standard BibTex entry types that are acceptable for the LTER Network bibliography</h3>
+<ul>
+<li>techreport - A report published by a school or other institution, usually numbered within a series (also appropriate for government reports and gray literature)
+<ul>
+<li>Required fields: author, title, institution/organization, year</li>
+<li>Optional fields: type, number, address, month, note</li>
+</ul></li>
+<li>manual - Technical documentation
+<ul>
+<li>Required field: title</li>
+<li>Optional fields: author, organization, address, edition, month, year, note</li>
+</ul></li>
+<li>misc - Use this type when nothing else fits. (Appropriate for maps, patents, software, etc. Please strive to include as much detail as possible, especially year and howpublished)
+<ul>
+<li>Required fields: none.</li>
+<li>Optional fields: author, title, howpublished, month, year, note.</li>
+</ul></li>
+</ul>
+</section>
+<section id="sources" class="level3">
+<h3 class="anchored" data-anchor-id="sources">Sources</h3>
+<p><a href="https://www.openoffice.org/bibliographic/bibtex-defs.html">Bibtex entry definitions and required fields</a></p>
+<p><a href="https://www.research.gov/common/robohelp/public/WebHelp/Project_Reports.htm#project_reports_htm_how_to_add_p_2803">NSF reporting entry types</a></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
